@@ -1,0 +1,69 @@
+Einkommensteuergesetz 1988 (EStG 1988)
+Paragraph 1 -- Unbeschränkte und beschränkte Steuerpflicht / Internationales Steuerrecht
+
+Quelle: BGBl. Nr. 400/1988 idgF; ergänzt durch österreichische DBA-Praxis
+
+§ 1 EStG 1988 -- Steuerpflicht
+
+(1) Einkommensteuerpflichtig sind natürliche Personen.
+
+(2) Unbeschränkte Steuerpflicht:
+Natürliche Personen, die in Österreich einen Wohnsitz oder ihren gewöhnlichen Aufenthalt haben, sind unbeschränkt einkommensteuerpflichtig. Das bedeutet: Das gesamte weltweite Einkommen (Welteinkommen) wird in Österreich besteuert.
+
+Wohnsitz: Ein Wohnsitz liegt vor, wenn jemand eine Wohnung in Österreich unter Umständen innehat, die darauf schließen lassen, dass er die Wohnung beibehalten und benutzen wird.
+
+Gewöhnlicher Aufenthalt: Wer sich mehr als sechs Monate im Jahr in Österreich aufhält, gilt als unbeschränkt steuerpflichtig, auch ohne festen Wohnsitz.
+
+(3) Beschränkte Steuerpflicht:
+Natürliche Personen ohne Wohnsitz oder gewöhnlichen Aufenthalt in Österreich sind beschränkt steuerpflichtig -- aber nur mit ihren österreichischen Einkünften (z.B. Einkünfte aus österreichischen Immobilien, aus österreichischen Betriebsstätten, aus österreichischen Dienstverhältnissen).
+
+Doppelbesteuerungsabkommen (DBA) -- Grundprinzipien:
+
+Zweck:
+DBAs sind bilaterale Staatsverträge, die verhindern, dass dieselben Einkünfte in zwei Ländern besteuert werden. Österreich hat derzeit DBAs mit über 90 Ländern abgeschlossen (Stand 2024).
+
+Zuteilungsregeln typischer DBAs nach dem OECD-Musterabkommen:
+
+Unselbständige Arbeit (Artikel 15 OECD-MA):
+- Grundregel: Das Besteuerungsrecht hat der Tätigkeitsstaat (wo die Arbeit ausgeübt wird).
+- Ausnahme (183-Tage-Regel): Hält sich der Arbeitnehmer weniger als 183 Tage im anderen Staat auf, und wird das Gehalt von einem inländischen Arbeitgeber gezahlt, behält Österreich das Besteuerungsrecht.
+
+Unternehmensgewinne (Artikel 7 OECD-MA):
+- Gewinne aus einem Betrieb werden grundsätzlich nur im Ansässigkeitsstaat besteuert.
+- Ausnahme: Hat das Unternehmen im anderen Staat eine Betriebsstätte, darf der andere Staat die der Betriebsstätte zuzurechnenden Gewinne besteuern.
+
+Dividenden (Artikel 10 OECD-MA):
+- Der Quellenstaat darf eine Quellensteuer einbehalten (maximal 15%, bei qualifizierten Beteiligungen 5%).
+- Der Ansässigkeitsstaat des Empfängers darf auch besteuern, rechnet aber die Quellensteuer an.
+
+Zinsen und Lizenzgebühren (Artikel 11, 12 OECD-MA):
+- Je nach DBA: Quellensteuer kann eingeschränkt oder ausgeschlossen sein.
+
+Immobilieneinkünfte (Artikel 6 OECD-MA):
+- Das Besteuerungsrecht liegt immer beim Belegenheitsstaat (wo das Grundstück liegt).
+- Österreich besteuert immer Einkünfte aus österreichischen Immobilien, auch wenn der Eigentümer im Ausland lebt.
+
+Methoden zur Vermeidung der Doppelbesteuerung:
+
+(A) Befreiungsmethode (häufigste Methode in österreichischen DBAs):
+Der in Österreich ansässige Steuerpflichtige ist von der österreichischen Steuer auf ausländische Einkünfte befreit. Die ausländischen Einkünfte werden jedoch für die Berechnung des Steuersatzes auf die übrigen österreichischen Einkünfte herangezogen (Progressionsvorbehalt).
+
+Progressionsvorbehalt:
+Die ausländischen steuerfreien Einkünfte erhöhen den Durchschnittssteuersatz, der dann auf die in Österreich steuerpflichtigen Einkünfte angewendet wird. Das führt zu einer höheren Steuerbelastung auf die österreichischen Einkünfte.
+
+(B) Anrechnungsmethode (in einigen DBAs, z.B. DBA Österreich-USA):
+Ausländische Einkünfte werden in Österreich besteuert. Die im Ausland gezahlte Steuer wird auf die österreichische Steuer angerechnet (bis maximal zur österreichischen Steuer auf diese Einkünfte).
+
+Wichtige spezifische Situationen für Wien als internationales Zentrum:
+
+Diplomaten und internationale Beamte (UN, IAEO, etc.):
+Oft eigene Regelungen je nach Privileg- und Immunitätsabkommen. Mitarbeiter internationaler Organisationen in Wien können vollständig oder teilweise von der österreichischen Steuer befreit sein.
+
+Expatriates mit Hauptwohnsitz in Wien:
+Wenn jemand aus dem Ausland nach Wien zieht und einen Wohnsitz begründet, wird er unbeschränkt steuerpflichtig. Sein weltweites Einkommen unterliegt dann der österreichischen Einkommensteuer, vorbehaltlich der anwendbaren DBAs.
+
+Grenzpendler (Deutschland, Schweiz, Liechtenstein, Tschechien, Slowakei, Ungarn):
+Spezielle Regelungen in bestimmten DBAs, z.B. das DBA Österreich-Deutschland (Grenzgängerregelung gibt es nicht mehr, aber die 183-Tage-Regel und die Ansässigkeitsregelungen sind maßgeblich).
+
+Sozialversicherung bei grenzüberschreitender Tätigkeit:
+Steuerrecht und Sozialversicherungsrecht folgen unterschiedlichen Regeln. Die EU-Verordnung (EG) 883/2004 regelt, welches Land die Sozialversicherungspflicht hat (in der Regel das Tätigkeitsland). Das kann vom steuerlichen Ansässigkeitsstaat abweichen.

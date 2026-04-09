@@ -1,0 +1,100 @@
+Umsatzsteuergesetz 1994 (UStG 1994)
+Paragraphen 1 bis 10 -- Inländische Umsatzsteuer
+
+Quelle: BGBl. Nr. 663/1994 idgF
+
+§ 1 UStG 1994 -- Steuerbare Umsätze
+
+Der Umsatzsteuer unterliegen folgende Umsätze:
+1. Lieferungen und sonstige Leistungen, die ein Unternehmer im Inland gegen Entgelt im Rahmen seines Unternehmens ausführt.
+2. Der Eigenverbrauch im Inland.
+3. Die Einfuhr von Gegenständen aus dem Drittlandsgebiet.
+
+Unternehmerbegriff: Unternehmer ist, wer eine gewerbliche oder berufliche Tätigkeit selbständig und nachhaltig ausübt.
+
+§ 6 UStG 1994 -- Steuerbefreiungen
+
+Wichtige steuerfreie Umsätze (ohne Vorsteuerabzug):
+- Ärztliche Leistungen (humanmedizinische Leistungen)
+- Versicherungsumsätze
+- Bankumsätze (Kreditgewährung, Wertpapierhandel)
+- Vermietung von Grundstücken (mit Ausnahme: kurzfristige Vermietung und Betriebsräume können mit USt behandelt werden)
+- Ausfuhrlieferungen (steuerfrei mit Vorsteuerabzug)
+- Innergemeinschaftliche Lieferungen (steuerfrei mit Vorsteuerabzug)
+
+Kleinunternehmerregelung (§ 6 Abs. 1 Z 27 UStG 1994):
+Unternehmer mit Jahresumsatz bis 35.000 Euro (Netto, Stand bis 2024) sind von der Umsatzsteuer befreit.
+Ab 2025 gilt eine erhöhte Grenze gemäß EU-Richtlinie.
+Kleinunternehmer dürfen keine Umsatzsteuer in Rechnung stellen und haben keinen Vorsteuerabzug.
+Sie können auf die Kleinunternehmerregelung verzichten (Option zur Umsatzsteuerpflicht).
+
+§ 10 UStG 1994 -- Steuersätze
+
+(1) Die Steuer beträgt 20% der Bemessungsgrundlage. Dies ist der Regelsteuersatz.
+
+(2) Ermäßigter Steuersatz 10%:
+- Lebensmittel (Nachweis in der Anlage zum UStG)
+- Bücher, Zeitschriften, Zeitungen (physisch und elektronisch)
+- Personenbeförderung im Inland
+- Beherbergung (Hotelübernachtungen)
+- Lieferung von Holz für Heizzwecke
+- Tierfutter
+- Düngemittel
+
+(3) Ermäßigter Steuersatz 13%:
+- Kulturveranstaltungen (Theater, Konzerte, Museen)
+- Zoos und botanische Gärten
+- Bäder und Thermen
+- Sportveranstaltungen
+- Lebende Pflanzen und Blumen
+- Wein vom Weingut des Produzenten (bis zu einem bestimmten Schwellenwert)
+- Jugendbetreuung
+
+Wichtige Abgrenzungen:
+- Restaurantleistungen (Speisen und Getränke zur Konsumation vor Ort): 10% (Speisen) und 20% (Alkohol) -- es gibt historisch unterschiedliche Regelungen, die Steuersätze für Speisen in der Gastronomie wurden in den letzten Jahren mehrfach geändert.
+- Reparaturleistungen: 20% Regelsteuersatz
+- Dienstleistungen allgemein: 20% Regelsteuersatz
+- Vorsteuer bei gemischten Betrieben: muss aufgeteilt werden
+
+§ 11 UStG 1994 -- Rechnungsanforderungen
+
+Eine ordnungsgemäße Rechnung muss enthalten:
+1. Name und Anschrift des leistenden Unternehmers
+2. Name und Anschrift des Leistungsempfängers
+3. Steuernummer oder UID-Nummer des leistenden Unternehmers
+4. Ausstellungsdatum
+5. Fortlaufende Rechnungsnummer
+6. Menge und handelsübliche Bezeichnung der Lieferung / Art der sonstigen Leistung
+7. Tag der Lieferung oder Zeitraum der sonstigen Leistung
+8. Entgelt und Steuersatz
+9. Steuerbetrag (oder Hinweis auf Steuerbefreiung)
+
+Vereinfachte Rechnung (Kleinbetragsrechnung): Bei Rechnungen bis 400 Euro brutto genügen Name und Anschrift des Ausstellers, Ausstellungsdatum, Art der Leistung, Entgelt und Steuersatz.
+
+§ 12 UStG 1994 -- Vorsteuerabzug
+
+(1) Unternehmer können von der Umsatzsteuer, die sie schulden, die von anderen Unternehmern gesondert ausgewiesene Steuer für Lieferungen und Leistungen abziehen, die für ihr Unternehmen ausgeführt worden sind.
+
+Voraussetzungen:
+- ordnungsgemäße Rechnung liegt vor
+- Leistung wurde für unternehmerische Zwecke bezogen
+- leistender Unternehmer ist tatsächlich umsatzsteuerpflichtig
+
+(3) Kein Vorsteuerabzug für:
+- privat genutzte Wirtschaftsgüter oder Leistungen
+- Repräsentationsaufwendungen
+- Fahrzeuge, die als PKW oder Kombinationsfahrzeug eingestuft werden (Ausnahmen: Taxis, Fahrzeughandel, Fahrschulen)
+- Umsätze, die steuerbefreit sind (ohne Option)
+
+§ 19 UStG 1994 -- Übergang der Steuerschuld (Reverse Charge)
+
+Die Steuerschuld geht in bestimmten Fällen auf den Leistungsempfänger über:
+- Bei sonstigen Leistungen ausländischer Unternehmer an inländische Unternehmer
+- Bei Bauleistungen zwischen Bauunternehmen
+- Bei Umsätzen mit Schrott und bestimmten Metallwaren
+Der Empfänger schuldet die Umsatzsteuer und kann sie gleichzeitig als Vorsteuer geltend machen.
+
+§ 21 UStG 1994 -- Voranmeldung und Vorauszahlung
+
+Unternehmer müssen monatlich (Vorjahresumsatz über 100.000 Euro) oder vierteljährlich (Vorjahresumsatz unter 100.000 Euro) eine Umsatzsteuervoranmeldung (UVA) einreichen und die Zahllast entrichten.
+Die Jahreserklärung (U1) ist bis 30. April des Folgejahres (mit FinanzOnline bis 30. Juni) einzureichen.

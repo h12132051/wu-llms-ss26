@@ -1,0 +1,67 @@
+Einkommensteuergesetz 1988 (EStG 1988)
+Paragraphen 25 und 26 -- Einkünfte aus nichtselbständiger Arbeit
+
+Quelle: Bundesgesetz vom 7. Juli 1988 über die Besteuerung des Einkommens natürlicher Personen, BGBl. Nr. 400/1988 idgF
+
+§ 25 EStG 1988 -- Einkünfte aus nichtselbständiger Arbeit (Arbeitslohn)
+
+(1) Einkünfte aus nichtselbständiger Arbeit (Arbeitslohn) sind:
+1. a) Bezüge und Vorteile aus einem bestehenden oder früheren Dienstverhältnis.
+   b) Bezüge und Vorteile von Personen, die an Kapitalgesellschaften nicht wesentlich beteiligt sind, auch wenn keine Weisungsgebundenheit gegenüber der Körperschaft besteht.
+
+Zum Arbeitslohn gehören insbesondere:
+- Gehälter, Löhne, Gratifikationen, Tantiemen
+- Urlaubsentschädigungen, Abfertigungen
+- Pensionen und Renten aus einem Dienstverhältnis
+- geldwerte Vorteile wie Sachbezüge (z.B. Firmenfahrzeug, Dienstwohnung)
+- Reisekosten- und Tagesgelder, soweit sie die steuerfreien Grenzen überschreiten
+
+(2) Nicht zu den Einkünften aus nichtselbständiger Arbeit gehören:
+- echte steuerfreie Leistungen wie der Zuschuss des Arbeitgebers für Kinderbetreuung bis 1.000 Euro pro Jahr
+- steuerfreie Zulagen und Zuschläge für Schmutz-, Erschwernis- und Gefahrenarbeit (SEG-Zulagen)
+
+§ 26 EStG 1988 -- Bezüge aus dem Dienstverhältnis, die nicht zu den Einkünften gehören
+
+Nicht zu den Einkünften aus nichtselbständiger Arbeit gehören:
+
+1. Der Ersatz von tatsächlich entstandenen Reisekosten:
+   - Kilometergeld für Dienstreisen (0,42 Euro/km für PKW ab 2023)
+   - Tagesgelder bis 26,40 Euro pro Tag (bei Inlandsdienstreisen ab 12 Stunden Abwesenheit)
+   - Nächtigungskosten nach Nachweis
+
+2. Beförderung des Arbeitnehmers im Werkverkehr
+
+3. Kostenersatz für Berufsbekleidung
+
+§ 16 Abs. 1 Z 6 EStG 1988 -- Pendlerpauschale
+
+Die Pendlerpauschale ist ein Werbungskostenabzug für Arbeitnehmer, die die Arbeitsstätte nicht täglich aufsuchen oder deren Fahrtstrecke weit ist.
+
+Kleine Pendlerpauschale (öffentliche Verkehrsmittel sind zumutbar):
+- ab 20 km: 696 Euro jährlich
+- ab 40 km: 1.356 Euro jährlich
+- ab 60 km: 2.016 Euro jährlich
+
+Große Pendlerpauschale (öffentliche Verkehrsmittel sind nicht zumutbar):
+- ab 2 km: 372 Euro jährlich
+- ab 20 km: 1.476 Euro jährlich
+- ab 40 km: 2.568 Euro jährlich
+- ab 60 km: 3.672 Euro jährlich
+
+(Die genauen Beträge werden regelmäßig angepasst -- maßgeblich sind die jeweils gültigen Werte laut Einkommensteuergesetz bzw. Steuerreformgesetzen.)
+
+Pendlereuro:
+Zusätzlich zur Pendlerpauschale gibt es den Pendlereuro als Absetzbetrag: 2 Euro pro Kilometer der einfachen Fahrtstrecke pro Jahr (§ 33 Abs. 5 Z 4 EStG 1988).
+
+Sachbezugswerteverordnung -- Bewertung geldwerter Vorteile
+
+Privatnutzung eines Firmenfahrzeugs:
+Der Sachbezug beträgt 1,5% der Anschaffungskosten des Fahrzeugs pro Monat, maximal 720 Euro monatlich.
+Für Fahrzeuge mit einem CO2-Ausstoß von 0 g/km (reine Elektrofahrzeuge) beträgt der Sachbezug 0 Euro.
+Bei Hybridfahrzeugen gelten gestaffelte Werte abhängig vom CO2-Ausstoß.
+
+Dienstwohnung:
+Wird dem Arbeitnehmer eine Dienstwohnung kostenlos oder verbilligt überlassen, wird der Sachbezug mit dem ortsüblichen Mittelpreis des Wohnungsmarktes angesetzt, vermindert um einen gesetzlichen Abschlag.
+
+Wichtiger Hinweis:
+Sachbezüge erhöhen das steuerpflichtige Einkommen des Arbeitnehmers und unterliegen daher der Lohnsteuer sowie der Sozialversicherung. Der Arbeitgeber muss den Sachbezug monatlich berücksichtigen.

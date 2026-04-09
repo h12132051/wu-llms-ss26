@@ -1,0 +1,94 @@
+Einkommensteuergesetz 1988 (EStG 1988)
+Paragraph 33 -- Steuertarif und Absetzbeträge
+
+Quelle: BGBl. Nr. 400/1988 idgF; laufend aktualisiert durch Steuerreformgesetze
+
+§ 33 Abs. 1 EStG 1988 -- Progressiver Einkommensteuertarif
+
+Ab Veranlagungsjahr 2024 gilt folgender Stufentarif:
+
+Einkommen bis 12.816 Euro: 0% (Grundfreibetrag)
+12.816 bis 20.818 Euro: 20%
+20.818 bis 34.513 Euro: 30%
+34.513 bis 66.612 Euro: 40%
+66.612 bis 99.266 Euro: 48%
+99.266 bis 1.000.000 Euro: 50%
+Über 1.000.000 Euro: 55%
+
+(Die genauen Grenzwerte werden regelmäßig an die Inflation angepasst.)
+
+Absetzbeträge unterscheiden sich von Freibeträgen:
+- Freibetrag: mindert das steuerpflichtige Einkommen (spart Steuer in Höhe des Grenzsteuersatzes)
+- Absetzbetrag: mindert die berechnete Steuer direkt um einen Fixbetrag (gleicher Steuervorteil für alle)
+
+§ 33 Abs. 3a EStG 1988 -- Familienbonus Plus
+
+(1) Arbeitnehmer und Selbständige können den Familienbonus Plus geltend machen für:
+- Kinder unter 18 Jahren, die in Österreich leben und für die Familienbeihilfe bezogen wird
+- Kinder über 18 Jahren, für die noch Familienbeihilfe bezogen wird (z.B. Studenten)
+
+Höhe ab 2024:
+- 2.000 Euro pro Jahr für Kinder unter 18
+- 650 Euro pro Jahr für Kinder über 18 (solange Familienbeihilfe)
+
+Aufteilung zwischen Eltern:
+- Eltern können den Familienbonus Plus je zur Hälfte aufteilen (je 1.000 Euro / 325 Euro)
+- Oder ein Elternteil beantragt ihn zur Gänze
+- Keine Aufteilung zwischen anderen Personen möglich
+
+Limitierung:
+Der Familienbonus Plus kann die Steuer maximal auf null mindern -- er kann also nicht zu einer Negativsteuer führen.
+
+§ 33 Abs. 4 -- Alleinverdiener- und Alleinerzieherabsetzbetrag
+
+Alleinverdienerabsetzbetrag:
+Für Steuerpflichtige, die mit einem (Ehe-)Partner zusammenleben, der höchstens 6.000 Euro Jahreseinkommen hat.
+Voraussetzung: mindestens ein Kind.
+Betrag: 520 Euro (ein Kind), 704 Euro (zwei Kinder), 936 Euro (drei Kinder), je 232 Euro mehr pro weiterem Kind.
+
+Alleinerzieherabsetzbetrag:
+Für Steuerpflichtige, die alleinerziehend sind (kein Partner im Haushalt) und mindestens ein Kind haben.
+Betrag: 520 Euro (ein Kind), 704 Euro (zwei Kinder), je 232 Euro mehr pro weiterem Kind.
+
+§ 33 Abs. 5 -- Absetzbeträge für Arbeitnehmer
+
+Verkehrsabsetzbetrag:
+Jeder Arbeitnehmer hat Anspruch auf den Verkehrsabsetzbetrag von 463 Euro jährlich.
+Bei Anspruch auf Pendlerpauschale erhöht er sich auf 737 Euro.
+Er wird automatisch bei der Lohnsteuerberechnung berücksichtigt.
+
+Arbeitnehmerabsetzbetrag:
+Wurde mit dem Verkehrsabsetzbetrag zusammengelegt.
+
+§ 33 Abs. 6 -- Pensionistenabsetzbetrag
+
+Pensionisten, deren Jahrespension bestimmte Einkommensgrenzen nicht übersteigt, können den Pensionistenabsetzbetrag geltend machen.
+Maximalbetrag: 868 Euro jährlich.
+Einschleifregelung: Der Absetzbetrag vermindert sich bei steigendem Pensionseinkommen schrittweise (beginnt ab Jahrespension über ca. 25.000 Euro).
+
+§ 33 Abs. 8 -- Negativsteuer / SV-Rückerstattung
+
+Personen mit geringem Einkommen, deren Einkommensteuer null ergibt, können einen Teil ihrer Sozialversicherungsbeiträge zurückerhalten:
+- Arbeitnehmer: bis zu 50% der SV-Beiträge, maximal 500 Euro
+- Pendler mit Pendlerpauschale: bis zu 400 Euro zusätzlich
+- Alleinerzieher und Alleinverdiener mit Anspruch auf entsprechenden Absetzbetrag: Auszahlung auch wenn keine Steuer anfällt
+
+§ 18 EStG 1988 -- Sonderausgaben
+
+Sonderausgaben mindern das steuerpflichtige Einkommen:
+- Kirchenbeiträge: bis zu 400 Euro jährlich
+- Spenden an begünstigte Einrichtungen: bis 10% des Vorjahreseinkommens
+- Steuerberatungskosten (soweit nicht Betriebsausgaben)
+
+Automatische Übermittlung:
+Kirchenbeiträge, Spenden und Krankenkassenprämien werden von begünstigten Einrichtungen automatisch an das Finanzamt gemeldet (sofern die Sozialversicherungsnummer bekannt ist). Sie erscheinen daher automatisch in der Steuererklärung.
+
+§ 34 EStG 1988 -- Außergewöhnliche Belastungen
+
+Außergewöhnliche Belastungen sind unausweichliche Aufwendungen, die außergewöhnlich hoch sind, zum Beispiel:
+- Krankheitskosten (soweit nicht von der Krankenkasse ersetzt)
+- Kosten für Pflege von Angehörigen
+- Katastrophenschäden
+
+Selbstbehalt: Außergewöhnliche Belastungen werden nur anerkannt, soweit sie einen einkommensabhängigen Selbstbehalt (6% bis 12% des Einkommens) übersteigen.
+Ausnahmen ohne Selbstbehalt: Behinderungskosten, Kinderbetreuung unter 10 Jahren (bis 2.300 Euro).

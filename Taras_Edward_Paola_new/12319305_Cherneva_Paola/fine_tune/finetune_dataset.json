@@ -1,0 +1,462 @@
+[
+  {
+    "id": "ESTG27-001",
+    "prompt": "Herr Kern ist zu 60% an einer GmbH beteiligt, die er im Rahmen seines Einzelunternehmens (Betriebsvermögen) hält. Die GmbH schüttet 10.000 Euro aus. Gleichzeitig hält er privat Aktien derselben GmbH im Wert von 5.000 Euro und erhält darauf anteilig 2.000 Euro Dividende. Wie sind die beiden Ausschüttungen einkommensteuerrechtlich zu behandeln?",
+    "correct_answer": "Die Einordnung hängt davon ab, ob die Beteiligung im Betriebs- oder Privatvermögen gehalten wird. Die Ausschüttung auf die im Betriebsvermögen des Einzelunternehmens gehaltene GmbH-Beteiligung (10.000 Euro) gehört gemäß § 27 Abs. 1 EStG 1988 nicht zu den Einkünften aus Kapitalvermögen, da sie zu den Einkünften im Sinne des § 2 Abs. 3 Z 1 bis 4 EStG 1988 (hier: Einkünfte aus Gewerbebetrieb) zählt – die Subsidiaritätsklausel des § 27 Abs. 1 EStG 1988 greift. Nur die auf die privat gehaltenen Aktien entfallende Dividende von 2.000 Euro stellt Einkünfte aus Kapitalvermögen gemäß § 27 Abs. 2 Z 1 lit. a EStG 1988 dar.",
+    "sources": "§ 27 Abs. 1 EStG 1988; § 27 Abs. 2 Z 1 lit. a EStG 1988; § 2 Abs. 3 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-002",
+    "prompt": "Frau Sommer schließt im Alter von 48 Jahren eine Kapitallebensversicherung auf den Erlebensfall ab. Sie zahlt eine einmalige Prämie von 50.000 Euro. Die Versicherungslaufzeit beträgt 12 Jahre. Nach Ablauf erhält sie 65.000 Euro. Ist der Unterschiedsbetrag von 15.000 Euro steuerpflichtig?",
+    "correct_answer": "Ja, der Unterschiedsbetrag von 15.000 Euro ist steuerpflichtig. Gemäß § 27 Abs. 5 Z 3 EStG 1988 gilt der Unterschiedsbetrag zwischen eingezahlter Prämie und Versicherungsleistung bei einer Erlebensfall-Kapitalversicherung dann als Einkünfte aus Kapitalvermögen, wenn keine laufenden, im Wesentlichen gleich bleibenden Prämienzahlungen vereinbart sind (hier: Einmalerlag) und die Höchstlaufzeit weniger als 15 Jahre beträgt. Da Frau Sommer bei Vertragsabschluss das 50. Lebensjahr noch nicht vollendet hatte (sie war 48), gilt die Grenze von 15 Jahren. Die Laufzeit von 12 Jahren liegt unter dieser Grenze, weshalb der Unterschiedsbetrag von 15.000 Euro als Einkünfte aus Kapitalvermögen nach § 27 Abs. 5 Z 3 EStG 1988 steuerpflichtig ist.",
+    "sources": "§ 27 Abs. 5 Z 3 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-003",
+    "prompt": "Herr Wolf kauft am 1. März Aktien der X-AG um 10.000 Euro (ex dividend). Am 15. März werden ihm 500 Euro Dividende gutgeschrieben. Am 30. April veräußert er die Aktien um 9.800 Euro. Sein Depot befindet sich bei einer österreichischen Bank. Wie hoch ist sein steuerpflichtiger Gesamtertrag aus diesen Transaktionen nach § 27 EStG 1988, und welche Tatbestände sind betroffen?",
+    "correct_answer": "Es sind zwei Tatbestände des § 27 EStG 1988 betroffen: (1) Die Dividende von 500 Euro stellt Einkünfte aus der Überlassung von Kapital gemäß § 27 Abs. 2 Z 1 lit. a EStG 1988 dar. (2) Aus der Veräußerung ergibt sich ein Verlust von 200 Euro (Verkaufserlös 9.800 Euro minus Anschaffungskosten 10.000 Euro), der Einkünfte aus realisierten Wertsteigerungen gemäß § 27 Abs. 3 EStG 1988 darstellt. Gemäß § 27 Abs. 8 Z 1 EStG 1988 können Verluste aus § 27 Abs. 3 nicht mit Zinserträgen aus Geldeinlagen bei Kreditinstituten verrechnet werden – eine Verrechnung mit Dividenden ist jedoch grundsätzlich möglich, da Dividenden nicht unter die Ausnahme des § 27 Abs. 8 Z 1 EStG 1988 fallen. Der Verlustausgleich zwischen dem Veräußerungsverlust (−200 Euro) und der Dividende (+500 Euro) ist daher zulässig, sofern beide dem besonderen Steuersatz nach § 27a Abs. 1 EStG 1988 unterliegen (§ 27 Abs. 8 Z 3 EStG 1988). Der steuerpflichtige Nettoertrag beträgt somit 300 Euro.",
+    "sources": "§ 27 Abs. 2 Z 1 lit. a EStG 1988; § 27 Abs. 3 EStG 1988; § 27 Abs. 8 Z 1 EStG 1988; § 27 Abs. 8 Z 3 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-004",
+    "prompt": "Herr Ritter ist stiller Gesellschafter an einem Handelsunternehmen. In Jahr 1 erzielt er einen Verlustanteil von 8.000 Euro, in Jahr 2 einen Gewinnanteil von 3.000 Euro. Zusätzlich hat er in Jahr 2 Dividendeneinkünfte aus Aktien von 10.000 Euro. Wie ist der Verlust aus Jahr 1 zu behandeln, und kann er in Jahr 2 mit den Dividenden verrechnet werden?",
+    "correct_answer": "Verlustanteile aus der Beteiligung als stiller Gesellschafter dürfen gemäß § 27 Abs. 8 Z 2 EStG 1988 nicht mit anderen Einkünften ausgeglichen werden – auch nicht mit anderen Einkünften aus Kapitalvermögen wie Dividenden. Der Verlust von 8.000 Euro aus Jahr 1 ist daher ausschließlich in Folgejahren mit Gewinnanteilen aus derselben stillen Beteiligung zu verrechnen. In Jahr 2 können von dem Gewinnanteil von 3.000 Euro aus der stillen Beteiligung 3.000 Euro des Vorjahresverlustes verrechnet werden; der verbleibende Verlustvortrag beträgt 5.000 Euro. Eine Verrechnung des Verlustes mit den Dividendeneinkünften von 10.000 Euro ist nicht zulässig.",
+    "sources": "§ 27 Abs. 8 Z 2 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-005",
+    "prompt": "Frau Berger überträgt im Wege der Schenkung ihre Aktien (Anschaffungskosten: 5.000 Euro, aktueller Wert: 12.000 Euro) von ihrem Depot bei der österreichischen Bank A auf das Depot ihres Sohnes bei der deutschen Bank B. Sie beauftragt die Bank A, dem zuständigen Finanzamt innerhalb eines Monats die übertragenen Wertpapiere und deren Anschaffungskosten mitzuteilen. Gilt die Übertragung als Veräußerung?",
+    "correct_answer": "Nein, die Übertragung gilt nicht als Veräußerung. Gemäß § 27 Abs. 6 Z 2 EStG 1988 liegt keine Veräußerung vor bei der Übertragung von einer inländischen depotführenden Stelle auf ein Depot desselben Steuerpflichtigen bei einer ausländischen depotführenden Stelle, wenn der Steuerpflichtige die übertragende Stelle beauftragt, dem zuständigen Finanzamt innerhalb eines Monats die Daten (Name, Steuer-/Sozialversicherungsnummer, übertragene Wirtschaftsgüter, Anschaffungskosten und Empfänger) mitzuteilen. Dieser Tatbestand gilt gemäß § 27 Abs. 6 Z 2 EStG 1988 auch für unentgeltliche Übertragungen auf ein Depot eines anderen Steuerpflichtigen (den Sohn). Da Frau Berger die Bank A entsprechend beauftragt hat, ist keine Veräußerung anzunehmen. Die Anschaffungskosten von 5.000 Euro gehen auf den Sohn über.",
+    "sources": "§ 27 Abs. 6 Z 2 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-006",
+    "prompt": "Herr Lenz hat seine österreichische Privatstiftung gegründet und im Jahr 2010 Immobilien (Einstandswert steuerlich: 200.000 Euro) eingebracht. Im Jahr 2024 widerruft er die Privatstiftung und erhält das Restvermögen zurück. Das Evidenzkonto der Privatstiftung weist einen Letztstand von 80.000 Euro aus. Die Privatstiftung hat im Laufe der Jahre Gewinne erwirtschaftet. Wie ist die Rückübertragung bei Herrn Lenz einkommensteuerrechtlich zu behandeln?",
+    "correct_answer": "Im Falle des Widerrufs einer Privatstiftung, bei dem der Stifter Letztbegünstigter gemäß § 34 Privatstiftungsgesetz ist, stellt der Rückfluss grundsätzlich Einkünfte aus Kapitalvermögen gemäß § 27 Abs. 5 Z 7 EStG 1988 dar (Zuwendungen von Privatstiftungen). Jedoch sind diese Einkünfte gemäß § 27 Abs. 5 Z 9 EStG 1988 auf Antrag des Stifters zu kürzen: Für Zuwendungen nach dem 31. Juli 2008 erfolgt die Kürzung um den Letztstand des Evidenzkontos gemäß § 27 Abs. 5 Z 8 lit. c EStG 1988. Da die Immobilien nach dem 31.07.2008 eingebracht wurden (2010), ist der Letztstand des Evidenzkontos von 80.000 Euro von den Einkünften abzuziehen. Nur der darüber hinausgehende Teil des zurückerhaltenen Vermögens stellt steuerpflichtige Einkünfte aus Kapitalvermögen dar.",
+    "sources": "§ 27 Abs. 5 Z 7 EStG 1988; § 27 Abs. 5 Z 8 lit. c EStG 1988; § 27 Abs. 5 Z 9 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-007",
+    "prompt": "Frau Huber kauft im Jänner eine Unternehmensanleihe um 10.000 Euro inklusive aufgelaufener Stückzinsen von 200 Euro. Im Oktober desselben Jahres veräußert sie die Anleihe um 10.500 Euro inklusive aufgelaufener Stückzinsen von 350 Euro. Wie sind die beim Kauf gezahlten und beim Verkauf erhaltenen Stückzinsen nach § 27 EStG 1988 zu behandeln?",
+    "correct_answer": "Stückzinsen sind im System des § 27 EStG 1988 gesondert zu behandeln. Gemäß § 27 Abs. 2 Z 2 EStG 1988 sind Stückzinsen ausdrücklich von den laufenden Kapitalerträgen aus Kapitalforderungen ausgenommen. Die beim Kauf bezahlten Stückzinsen von 200 Euro erhöhen die Anschaffungskosten der Anleihe und mindern damit einen späteren Veräußerungsgewinn. Die beim Verkauf erhaltenen Stückzinsen von 350 Euro stellen gemäß § 27 Abs. 6 Z 5 EStG 1988 einen eigenen Realisierungstatbestand dar (Zufluss anteiliger Einkünfte aus der Überlassung von Kapital anlässlich der Realisierung) und sind als Einkünfte aus Kapitalvermögen steuerpflichtig. Der Veräußerungsgewinn aus der Anleihe selbst berechnet sich aus: Verkaufserlös ohne Stückzinsen (10.150 Euro) minus Anschaffungskosten ohne Stückzinsen (9.800 Euro) = 350 Euro gemäß § 27 Abs. 3 EStG 1988.",
+    "sources": "§ 27 Abs. 2 Z 2 EStG 1988; § 27 Abs. 3 EStG 1988; § 27 Abs. 6 Z 5 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-008",
+    "prompt": "Herr Gruber zieht von Österreich in die Schweiz (Nicht-EU/EWR-Staat) und besitzt dabei im Privatvermögen Aktien mit stillen Reserven von 20.000 Euro sowie einen Future-Kontrakt mit einem latenten Gewinn von 5.000 Euro. Welche steuerlichen Konsequenzen hat der Wegzug nach § 27 EStG 1988?",
+    "correct_answer": "Der Wegzug in die Schweiz führt zu einer Einschränkung des österreichischen Besteuerungsrechts und gilt gemäß § 27 Abs. 6 Z 1 EStG 1988 als fiktive Veräußerung sowohl hinsichtlich der Aktien (Wirtschaftsgut im Sinne des Abs. 3) als auch des Future-Kontrakts (Derivat im Sinne des Abs. 4). Da die Schweiz kein EU/EWR-Staat ist, greift die Stundungsregelung des § 27 Abs. 6 Z 1 lit. a EStG 1988 nicht – diese gilt nur für EU/EWR-Staaten. Gemäß § 27 Abs. 6 Z 1 lit. d EStG 1988 sind in allen nicht von lit. a erfassten Fällen die § 6 Z 6 lit. c und d EStG 1988 sinngemäß anzuwenden, was zur sofortigen Steuerpflicht auf die stillen Reserven von 20.000 Euro (Aktien) und 5.000 Euro (Future) führt.",
+    "sources": "§ 27 Abs. 6 Z 1 EStG 1988; § 27 Abs. 6 Z 1 lit. a EStG 1988; § 27 Abs. 6 Z 1 lit. d EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-009",
+    "prompt": "Eine österreichische GmbH & Co KG (Mitunternehmerschaft) hält im Betriebsvermögen Aktien. Die Aktien werden mit Gewinn veräußert. Ein Kommanditist hält seinen Anteil an der KG im Privatvermögen. Sind die Gewinne aus der Aktienveräußerung für den Kommanditisten Einkünfte aus Kapitalvermögen nach § 27 EStG 1988?",
+    "correct_answer": "Nein. Obwohl die KG Aktien hält, deren Erträge grundsätzlich unter § 27 EStG 1988 fallen könnten, greift hier die Subsidiaritätsklausel des § 27 Abs. 1 EStG 1988. Danach liegen Einkünfte aus Kapitalvermögen nur vor, soweit sie nicht zu den Einkünften im Sinne des § 2 Abs. 3 Z 1 bis 4 EStG 1988 gehören. Da die Aktien im Betriebsvermögen der KG gehalten werden und die KG Einkünfte aus Gewerbebetrieb erzielt (§ 2 Abs. 3 Z 3 EStG 1988), stellen die Gewinne aus der Aktienveräußerung für den Kommanditisten anteilige Einkünfte aus Gewerbebetrieb dar – unabhängig davon, dass er seinen Kommanditanteil im Privatvermögen hält.",
+    "sources": "§ 27 Abs. 1 EStG 1988; § 2 Abs. 3 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-010",
+    "prompt": "Frau Stern hat über ihre österreichische Bank im Privatvermögen eine Put-Option auf Aktien der Y-AG gekauft und dafür eine Optionsprämie von 800 Euro bezahlt. Die Option läuft wertlos aus, weil der Aktienkurs gestiegen ist. Zusätzlich hat sie als Stillhalterin bei einer anderen Option eine Prämie von 1.500 Euro erhalten, die ebenfalls wertlos ausläuft. Wie sind diese beiden Positionen nach § 27 EStG 1988 zu behandeln?",
+    "correct_answer": "Die beiden Positionen sind unterschiedlich zu behandeln: (1) Die wertlos ausgelaufene Put-Option führt zu einem Verlust (verlorene Optionsprämie von 800 Euro). Dieser Verlust aus der sonstigen Abwicklung eines Derivats fällt unter § 27 Abs. 4 Z 4 EStG 1988. (2) Die als Stillhalterin erhaltene Prämie von 1.500 Euro stellt eine Stillhalterprämie gemäß § 27 Abs. 4 Z 2 EStG 1988 dar und ist unmittelbar bei Zufluss steuerpflichtig – auch wenn die Option später wertlos ausläuft, ändert dies nichts an der bereits entstandenen Steuerpflicht auf die Prämie. Ein Verlustausgleich zwischen dem Optionsverlust (−800 Euro) und der Stillhalterprämie (+1.500 Euro) ist gemäß § 27 Abs. 8 Z 3 EStG 1988 zulässig, da beide dem besonderen Steuersatz nach § 27a Abs. 1 EStG 1988 unterliegen.",
+    "sources": "§ 27 Abs. 4 Z 2 EStG 1988; § 27 Abs. 4 Z 4 EStG 1988; § 27 Abs. 8 Z 3 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-011",
+    "prompt": "Herr Adler ist Begünstigter einer Privatstiftung. Im laufenden Geschäftsjahr beträgt der Bilanzgewinn der Stiftung zu Jahresbeginn 50.000 Euro, die Gewinnrücklagen betragen 30.000 Euro, und das Evidenzkonto weist einen Stand von 200.000 Euro aus. Die Stiftung schüttet 90.000 Euro an Herrn Adler aus. In welchem Ausmaß handelt es sich um steuerpflichtige Einkünfte aus Kapitalvermögen?",
+    "correct_answer": "Gemäß § 27 Abs. 5 Z 8 EStG 1988 gelten Zuwendungen insoweit als Substanzauszahlung (und damit nicht als steuerpflichtige Einkünfte), als sie den maßgeblichen Wert übersteigen und im Evidenzkonto Deckung finden. Der maßgebliche Wert gemäß § 27 Abs. 5 Z 8 lit. b EStG 1988 beträgt: Bilanzgewinn (50.000 Euro) + Gewinnrücklagen (30.000 Euro) = 80.000 Euro. Bis zu dieser Höhe (80.000 Euro) stellt die Zuwendung steuerpflichtige Einkünfte aus Kapitalvermögen gemäß § 27 Abs. 5 Z 7 EStG 1988 dar. Der überschießende Betrag von 10.000 Euro (90.000 − 80.000) gilt als Substanzauszahlung, sofern das Evidenzkonto mit 200.000 Euro ausreichend Deckung bietet (was hier der Fall ist). Diese 10.000 Euro sind nicht steuerpflichtig und mindern das Evidenzkonto.",
+    "sources": "§ 27 Abs. 5 Z 7 EStG 1988; § 27 Abs. 5 Z 8 EStG 1988; § 27 Abs. 5 Z 8 lit. b EStG 1988; § 27 Abs. 5 Z 8 lit. c EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-012",
+    "prompt": "Frau Koch hält im Privatvermögen Aktien bei der österreichischen Bank A. Sie überträgt diese auf ihr eigenes Depot bei der deutschen Bank B und beauftragt Bank A, dem Finanzamt innerhalb eines Monats Name, Steuernummer, die übertragenen Aktien und deren Anschaffungskosten sowie die Empfängerbank mitzuteilen. Zwei Monate später zieht Frau Koch nach Kanada. Gilt nun rückwirkend die ursprüngliche Depotübertragung doch als Veräußerung?",
+    "correct_answer": "Nein, die ursprüngliche Depotübertragung bleibt keine Veräußerung. Sie erfüllte zum Zeitpunkt der Übertragung die Voraussetzungen des § 27 Abs. 6 Z 2 EStG 1988 (Mitteilung an das Finanzamt innerhalb eines Monats). Allerdings bewirkt der spätere Wegzug nach Kanada (Nicht-EU/EWR-Staat) gemäß § 27 Abs. 6 Z 1 lit. b EStG 1988 eine fiktive Veräußerung, da dies als tatsächliche Veräußerung gilt, wenn ein späterer Wegzug in einen Staat erfolgt, der nicht von § 27 Abs. 6 Z 1 lit. a EStG 1988 erfasst ist. Die stillen Reserven in den Aktien zum Zeitpunkt des Wegzugs nach Kanada werden damit steuerpflichtig, da das österreichische Besteuerungsrecht eingeschränkt wird.",
+    "sources": "§ 27 Abs. 6 Z 1 lit. b EStG 1988; § 27 Abs. 6 Z 2 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-013",
+    "prompt": "Herr Jung ist Mitglied einer Agrargemeinschaft und erhält im laufenden Jahr zunächst eine Vorauszahlung von 2.500 Euro im Mai und eine weitere Zahlung von 2.000 Euro im November. Handelt es sich um steuerpflichtige Einkünfte aus Kapitalvermögen nach § 27 EStG 1988, obwohl jede Einzelzahlung unter 4.000 Euro liegt?",
+    "correct_answer": "Ja, die Gesamtzahlungen von 4.500 Euro im Kalenderjahr sind steuerpflichtig. Gemäß § 27 Abs. 2 Z 1 lit. d EStG 1988 stellen Bezüge aus Anteilen an körperschaftlich organisierten Agrargemeinschaften nur dann Einkünfte aus Kapitalvermögen dar, wenn sie einen Betrag von 4.000 Euro im Kalenderjahr übersteigen. Maßgeblich ist die Summe aller Bezüge im Kalenderjahr, nicht die einzelne Zahlung. Da die Gesamtbezüge (2.500 + 2.000 = 4.500 Euro) die Freigrenze von 4.000 Euro überschreiten, sind die gesamten 4.500 Euro steuerpflichtig – nicht nur der überschießende Betrag, da es sich um eine Freigrenze und nicht um einen Freibetrag handelt.",
+    "sources": "§ 27 Abs. 2 Z 1 lit. d EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-014",
+    "prompt": "Frau Braun kauft Aktien im Wert von 20.000 Euro und finanziert den Kauf durch ein Bankdarlehen, für das sie 800 Euro Zinsen bezahlt. Im selben Jahr erhält sie Dividenden von 600 Euro aus diesen Aktien und erzielt bei der Veräußerung der Aktien einen Verlust von 1.500 Euro. Kann sie die Darlehenszinsen oder den Veräußerungsverlust steuermindernd geltend machen?",
+    "correct_answer": "Nein, die Darlehenszinsen von 800 Euro können bei Einkünften aus Kapitalvermögen, die dem besonderen Steuersatz gemäß § 27a Abs. 1 EStG 1988 unterliegen, grundsätzlich nicht als Werbungskosten abgezogen werden (§ 27a Abs. 4 EStG 1988 schließt den Werbungskostenabzug aus). Der Veräußerungsverlust von 1.500 Euro aus § 27 Abs. 3 EStG 1988 kann gemäß § 27 Abs. 8 Z 1 EStG 1988 nicht mit Sparbuchzinsen ausgeglichen werden; eine Verrechnung mit den Dividenden von 600 Euro ist hingegen zulässig, da beide dem Sondersteuersatz unterliegen (§ 27 Abs. 8 Z 3 EStG 1988). Der verbleibende Verlust von 900 Euro (−1.500 + 600) darf gemäß § 27 Abs. 8 Z 4 EStG 1988 nicht mit anderen Einkunftsarten ausgeglichen werden und ist auch nicht vortragsfähig.",
+    "sources": "§ 27 Abs. 3 EStG 1988; § 27 Abs. 8 Z 1 EStG 1988; § 27 Abs. 8 Z 3 EStG 1988; § 27 Abs. 8 Z 4 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-015",
+    "prompt": "Herr Weiss hat seiner GmbH ein Gesellschafterdarlehen gewährt und erhält dafür jährlich Zinsen. Zusätzlich räumt ihm die GmbH einen Bonus ein, der von der Unternehmensperformance abhängt und dieses Jahr 2.000 Euro beträgt. Herr Weiss hält die Beteiligung im Privatvermögen. Wie sind Zinsen und Bonus nach § 27 EStG 1988 zu qualifizieren?",
+    "correct_answer": "Die Zinsen aus dem Gesellschafterdarlehen sind gemäß § 27 Abs. 2 Z 2 EStG 1988 Einkünfte aus der Überlassung von Kapital (Zinsen aus Kapitalforderungen), da das Darlehen im Privatvermögen gehalten wird und die Beteiligung nicht zu betrieblichen Einkünften führt. Der performanceabhängige Bonus von 2.000 Euro stellt ein besonderes Entgelt gemäß § 27 Abs. 5 Z 1 EStG 1988 dar, das neben den im § 27 Abs. 2 bezeichneten Einkünften gewährt wird. Beide Beträge sind daher Einkünfte aus Kapitalvermögen im Sinne des § 27 Abs. 1 EStG 1988, unterliegen aber möglicherweise unterschiedlichen Steuersätzen nach § 27a EStG 1988.",
+    "sources": "§ 27 Abs. 1 EStG 1988; § 27 Abs. 2 Z 2 EStG 1988; § 27 Abs. 5 Z 1 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-016",
+    "prompt": "Frau Alt hat vor drei Jahren 1.000 Aktien der Z-AG angeschafft. Sie veräußert heute 600 Aktien mit Gewinn und schenkt die verbleibenden 400 Aktien ihrer Tochter, die ebenfalls ein Depot bei derselben österreichischen Bank hat. Die Bank wird beauftragt, die Übertragung dem Finanzamt zu melden. Die Tochter veräußert die Aktien einen Monat später. Welche steuerlichen Konsequenzen entstehen für Mutter und Tochter nach § 27 EStG 1988?",
+    "correct_answer": "Für die Mutter: Die Veräußerung von 600 Aktien löst Einkünfte aus realisierten Wertsteigerungen gemäß § 27 Abs. 3 EStG 1988 aus. Die Schenkung der 400 Aktien gilt nicht als Veräußerung, da gemäß § 27 Abs. 6 Z 2 EStG 1988 bei unentgeltlicher Übertragung von einer inländischen depotführenden Stelle auf das Depot eines anderen Steuerpflichtigen und Beauftragung der Bank zur Meldung keine Veräußerung vorliegt. Für die Tochter: Bei der späteren Veräußerung der geschenkten 400 Aktien sind die Anschaffungskosten der Mutter maßgeblich (da diese fortgeführt werden), und der Veräußerungsgewinn stellt Einkünfte aus realisierten Wertsteigerungen nach § 27 Abs. 3 EStG 1988 dar. Die unentgeltliche Übertragung ist für die Tochter daher ein anschaffungsähnlicher Vorgang ohne sofortige Steuerpflicht.",
+    "sources": "§ 27 Abs. 3 EStG 1988; § 27 Abs. 6 Z 2 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-017",
+    "prompt": "Herr Fink hält Genussrechte an einer österreichischen AG, die ihm laufende Erträge gewähren. Im Laufe des Jahres erhält er: (1) einen laufenden Ertrag von 1.000 Euro, (2) eine Sonderzahlung der AG anlässlich einer Kapitalerhöhung von 500 Euro sowie (3) einen Betrag von 300 Euro, den die AG als übernommene Kapitalertragsteuer weiterleitet. Wie sind diese drei Positionen nach § 27 EStG 1988 zu behandeln?",
+    "correct_answer": "Alle drei Positionen stellen Einkünfte aus Kapitalvermögen dar, jedoch auf unterschiedlicher Grundlage: (1) Der laufende Ertrag von 1.000 Euro aus Genussrechten ist gemäß § 27 Abs. 2 Z 1 lit. c EStG 1988 Einkünfte aus der Überlassung von Kapital. (2) Die Sonderzahlung von 500 Euro anlässlich der Kapitalerhöhung stellt ein besonderes Entgelt gemäß § 27 Abs. 5 Z 1 EStG 1988 dar, das neben den Einkünften nach § 27 Abs. 2 gewährt wird. (3) Die von der AG übernommene Kapitalertragsteuer von 300 Euro gilt gemäß § 27 Abs. 5 Z 2 EStG 1988 ausdrücklich als Einkünfte aus der Überlassung von Kapital, da vom Abzugsverpflichteten übernommene KESt-Beträge den Einkünften zuzurechnen sind.",
+    "sources": "§ 27 Abs. 2 Z 1 lit. c EStG 1988; § 27 Abs. 5 Z 1 EStG 1988; § 27 Abs. 5 Z 2 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-018",
+    "prompt": "Frau Hild hat im Jänner des laufenden Jahres Aktien um 15.000 Euro erworben und im März mit einem Verlust von 3.000 Euro veräußert. Im April kauft sie Anteile an einem Investmentfonds (Thesaurierer) um 10.000 Euro. Im Dezember schüttet der Fonds keine Erträge aus, aber es werden ihr ausschüttungsgleiche Erträge von 400 Euro zugerechnet. Außerdem erleidet sie bei einem CFD-Handel (Differenzkontrakt) einen Verlust von 1.200 Euro. Wie ist die Verlustausgleichssituation nach § 27 EStG 1988 zu beurteilen?",
+    "correct_answer": "Es sind drei Positionen zu beurteilen: (1) Aktienverlust von −3.000 Euro (§ 27 Abs. 3 EStG 1988), (2) ausschüttungsgleiche Erträge von +400 Euro aus dem Investmentfonds (§ 27 Abs. 2 oder Abs. 3 EStG 1988 je nach Fondskategorie), (3) CFD-Verlust von −1.200 Euro (§ 27 Abs. 4 EStG 1988, da CFDs derivative Finanzinstrumente sind). Gemäß § 27 Abs. 8 Z 3 EStG 1988 können Einkünfte aus Kapitalvermögen, auf die der besondere Steuersatz nach § 27a Abs. 1 EStG 1988 anwendbar ist, nur untereinander ausgeglichen werden. Da alle drei Positionen dem Sondersteuersatz unterliegen, ist ein gegenseitiger Ausgleich grundsätzlich zulässig. Der Gesamtverlust beträgt −3.800 Euro (−3.000 + 400 − 1.200). Gemäß § 27 Abs. 8 Z 4 EStG 1988 kann dieser nicht ausgeglichene Verlust nicht mit anderen Einkunftsarten verrechnet und auch nicht vorgetragen werden.",
+    "sources": "§ 27 Abs. 3 EStG 1988; § 27 Abs. 4 EStG 1988; § 27 Abs. 8 Z 3 EStG 1988; § 27 Abs. 8 Z 4 EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-019",
+    "prompt": "Herr Moser zieht von Österreich nach Deutschland (EU-Staat) und beantragt die Nichtfestsetzung der Wegzugsteuer auf seine Aktien. Fünf Jahre später kehrt er nach Österreich zurück, ohne die Aktien in der Zwischenzeit veräußert zu haben. Die Aktien haben im Ausland an Wert gewonnen. Was sind die steuerlichen Konsequenzen des Wiedereintritts in das österreichische Besteuerungsrecht nach § 27 EStG 1988?",
+    "correct_answer": "Der Wiedereintritt in das österreichische Besteuerungsrecht führt nicht zu einer rückwirkenden Auflösung der Wegzugsbesteuerung. Gemäß § 27 Abs. 6 Z 1 lit. e EStG 1988 sind in diesem Fall weiterhin die ursprünglichen Anschaffungskosten maßgeblich, höchstens jedoch die gemeinen Werte zum Zeitpunkt des Wegzugs. Die spätere Veräußerung gilt gemäß § 27 Abs. 6 Z 1 lit. e EStG 1988 ausdrücklich nicht als rückwirkendes Ereignis im Sinne des § 295a BAO. Wertsteigerungen, die nachweislich im EU/EWR-Raum während des Auslandsaufenthalts eingetreten sind, können gemäß § 27 Abs. 6 Z 1 lit. e EStG 1988 vom späteren Veräußerungserlös abgezogen werden, sofern Herr Moser dies nachweist.",
+    "sources": "§ 27 Abs. 6 Z 1 lit. e EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "ESTG27-020",
+    "prompt": "Frau Binder hat eine Rentenversicherung abgeschlossen, bei der die erste Rentenzahlung bereits nach 8 Jahren erfolgen soll. Sie entscheidet sich nach 9 Jahren für eine Kapitalabfindung statt der laufenden Rente. Die eingezahlten Prämien betrugen 30.000 Euro, die Kapitalabfindung beträgt 38.000 Euro. Frau Binder war bei Vertragsabschluss 55 Jahre alt und hat laufende, gleich bleibende Prämien vereinbart. Ist der Unterschiedsbetrag von 8.000 Euro steuerpflichtig?",
+    "correct_answer": "Ja, der Unterschiedsbetrag von 8.000 Euro ist steuerpflichtig. Gemäß § 27 Abs. 5 Z 3 lit. b EStG 1988 stellt der Unterschiedsbetrag bei Kapitalabfindung einer Rentenversicherung Einkünfte aus Kapitalvermögen dar, wenn der Beginn der Rentenzahlungen vor Ablauf von zehn bzw. fünfzehn Jahren ab Vertragsabschluss vereinbart ist. Da der Rentenbeginn nach 8 Jahren vereinbart wurde, liegt er unter der 10-Jahres-Grenze. Obwohl Frau Binder das 50. Lebensjahr bei Vertragsabschluss bereits vollendet hatte (sie war 55), ändert dies nichts: Die 10-Jahres-Grenze für den Rentenbeginn gilt unabhängig vom Alter. Die Tatsache, dass laufende gleich bleibende Prämien vereinbart wurden, ist bei Rentenversicherungen mit zu frühem Rentenbeginn nach § 27 Abs. 5 Z 3 lit. b EStG 1988 nicht befreiend – die Steuerpflicht ergibt sich allein aus dem zu frühen Rentenbeginn.",
+    "sources": "§ 27 Abs. 5 Z 3 lit. b EStG 1988",
+    "origin": "existing_student_dataset"
+  },
+  {
+    "id": "CURATED-001",
+    "prompt": "Was ist die steuerliche Bemessungsgrundlage der Körperschaftsteuer bei einer unbeschränkt steuerpflichtigen Körperschaft?",
+    "correct_answer": "Der Körperschaftsteuer ist das Einkommen zugrunde zu legen, das der unbeschränkt Steuerpflichtige innerhalb eines Kalenderjahres bezogen hat.",
+    "sources": "§ 7 Abs. 1 KStG 1988",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1988/401/P7/NOR40254334",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-002",
+    "prompt": "Wie wird das Einkommen im Sinne des Körperschaftsteuergesetzes grundsätzlich ermittelt?",
+    "correct_answer": "Einkommen ist der Gesamtbetrag der Einkünfte aus den in § 2 Abs. 3 EStG genannten Einkunftsarten nach Verlustausgleich und nach Abzug der Sonderausgaben sowie des Freibetrages für begünstigte Zwecke.",
+    "sources": "§ 7 Abs. 2 KStG 1988",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1988/401/P7/NOR40254334",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-003",
+    "prompt": "Wie wirken sich Einlagen eines Gesellschafters auf das steuerliche Einkommen der Körperschaft aus?",
+    "correct_answer": "Einlagen und Beiträge eines Gesellschafters bleiben bei der Ermittlung des Einkommens grundsätzlich außer Ansatz. Sie erhöhen also nicht das steuerpflichtige Einkommen der Körperschaft.",
+    "sources": "§ 8 Abs. 1 KStG 1988",
+    "source_url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004569&Paragraf=8&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-004",
+    "prompt": "Sind Gewinnanteile aus einer Beteiligung an einer inländischen Kapitalgesellschaft bei der empfangenden Körperschaft steuerfrei?",
+    "correct_answer": "Ja. Gewinnanteile jeder Art auf Grund einer Beteiligung an inländischen Kapitalgesellschaften sind als Beteiligungserträge grundsätzlich von der Körperschaftsteuer befreit.",
+    "sources": "§ 10 Abs. 1 Z 1 KStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-02-19&Gesetzesnummer=10004569&Paragraf=10&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-005",
+    "prompt": "Welche Einkunftsart liegt vor, wenn jemand selbständig Unterricht erteilt?",
+    "correct_answer": "Einkünfte aus einer unterrichtenden Tätigkeit zählen zu den Einkünften aus selbständiger Arbeit.",
+    "sources": "§ 22 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=22",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-006",
+    "prompt": "Welche Einkunftsart liegt vor, wenn jemand selbständig wissenschaftlich arbeitet?",
+    "correct_answer": "Einkünfte aus einer wissenschaftlichen Tätigkeit gehören zu den Einkünften aus selbständiger Arbeit.",
+    "sources": "§ 22 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=22",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-007",
+    "prompt": "Wann liegen Einkünfte aus Gewerbebetrieb im Sinne des § 23 EStG vor?",
+    "correct_answer": "Einkünfte aus Gewerbebetrieb liegen vor, wenn eine selbständige und nachhaltige Betätigung mit Gewinnabsicht unternommen wird, sich als Beteiligung am allgemeinen wirtschaftlichen Verkehr darstellt und weder Land- und Forstwirtschaft noch selbständige Arbeit ist.",
+    "sources": "§ 23 Z 1 EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=23",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-008",
+    "prompt": "Wie werden Vergütungen behandelt, die ein Mitunternehmer von seiner Personengesellschaft für seine Tätigkeit erhält?",
+    "correct_answer": "Solche Vergütungen zählen bei Mitunternehmerschaften zu den Einkünften aus Gewerbebetrieb.",
+    "sources": "§ 23 Z 2 EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=23",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-009",
+    "prompt": "Was zählt nach § 25 EStG grundsätzlich zu den Einkünften aus nichtselbständiger Arbeit?",
+    "correct_answer": "Zu den Einkünften aus nichtselbständiger Arbeit zählen Bezüge und Vorteile aus einem bestehenden oder früheren Dienstverhältnis.",
+    "sources": "§ 25 Abs. 1 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-01-25&Gesetzesnummer=10004570&Paragraf=25&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-010",
+    "prompt": "Gehört eine Pension, die an die Stelle bisherigen Arbeitslohns tritt, zu den Einkünften aus nichtselbständiger Arbeit?",
+    "correct_answer": "Ja. Auch Pensionszusagen können zu den Einkünften aus nichtselbständiger Arbeit zählen, wenn sie ganz oder teilweise anstelle des bisher gezahlten Arbeitslohns oder bestehender Lohnerhöhungsansprüche gewährt werden.",
+    "sources": "§ 25 Abs. 1 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-01-25&Gesetzesnummer=10004570&Paragraf=25&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-011",
+    "prompt": "Welche Umsätze unterliegen nach § 1 UStG grundsätzlich der Umsatzsteuer?",
+    "correct_answer": "Der Umsatzsteuer unterliegen insbesondere Lieferungen und sonstige Leistungen, die ein Unternehmer im Inland gegen Entgelt im Rahmen seines Unternehmens ausführt.",
+    "sources": "§ 1 Abs. 1 Z 1 UStG 1994",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004873&Paragraf=1",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-012",
+    "prompt": "Sind Ausfuhrlieferungen nach dem UStG steuerfrei?",
+    "correct_answer": "Ja. Ausfuhrlieferungen sind von den unter § 1 Abs. 1 Z 1 fallenden Umsätzen steuerfrei.",
+    "sources": "§ 6 Abs. 1 Z 1 UStG 1994",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004873&Paragraf=6",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-013",
+    "prompt": "Muss ein Unternehmer für eine Leistung an einen anderen Unternehmer eine Rechnung ausstellen?",
+    "correct_answer": "Ja. Führt der Unternehmer Umsätze nach § 1 Abs. 1 Z 1 an einen anderen Unternehmer für dessen Unternehmen oder an eine juristische Person aus, ist er zur Rechnungsausstellung verpflichtet. Die Rechnung muss grundsätzlich innerhalb von sechs Monaten ausgestellt werden.",
+    "sources": "§ 11 Abs. 1 Z 1 UStG 1994",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-01-14&Gesetzesnummer=10004873&Paragraf=11&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-014",
+    "prompt": "Unter welcher Grundvoraussetzung kann ein Unternehmer Vorsteuer abziehen?",
+    "correct_answer": "Ein Unternehmer kann Vorsteuer abziehen, wenn ein anderer Unternehmer in einer Rechnung die Steuer gesondert ausgewiesen hat und die Lieferung oder sonstige Leistung im Inland für sein Unternehmen ausgeführt wurde.",
+    "sources": "§ 12 Abs. 1 Z 1 lit. a UStG 1994",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004873&Paragraf=12",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-015",
+    "prompt": "Sind innergemeinschaftliche Lieferungen steuerfrei?",
+    "correct_answer": "Ja. Innergemeinschaftliche Lieferungen sind steuerfrei. Das gilt allerdings nicht, wenn der Unternehmer wusste oder wissen musste, dass die Lieferung mit Umsatzsteuerhinterziehung oder einem sonstigen die Umsatzsteuer betreffenden Finanzvergehen zusammenhängt.",
+    "sources": "Art. 6 Abs. 1 UStG 1994 Binnenmarkt",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=6&Gesetzesnummer=10004929&Paragraf=&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-016",
+    "prompt": "Was verlangt die Offenlegungs- und Wahrheitspflicht nach der BAO?",
+    "correct_answer": "Bedeutsame Umstände für Bestand und Umfang der Abgabepflicht oder für abgabenrechtliche Begünstigungen müssen vollständig und wahrheitsgemäß offengelegt werden.",
+    "sources": "§ 119 Abs. 1 BAO",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003940&Paragraf=119",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-017",
+    "prompt": "Welche Unterlagen oder Erklärungen dienen nach der BAO typischerweise der Offenlegung?",
+    "correct_answer": "Der Offenlegung dienen insbesondere Abgabenerklärungen, Anmeldungen, Anzeigen, Abrechnungen und sonstige Anbringen des Abgabepflichtigen.",
+    "sources": "§ 119 Abs. 2 BAO",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003940&Paragraf=119",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-018",
+    "prompt": "Was kann die Abgabenbehörde nach § 138 BAO verlangen, wenn Zweifel am Inhalt eines Anbringens bestehen?",
+    "correct_answer": "Die Abgabenbehörde kann verlangen, dass der Abgabepflichtige den Inhalt seines Anbringens erläutert und ergänzt sowie dessen Richtigkeit beweist. Wenn ein voller Beweis nach den Umständen nicht zugemutet werden kann, genügt die Glaubhaftmachung.",
+    "sources": "§ 138 Abs. 1 BAO",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003940&Paragraf=138",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-019",
+    "prompt": "Welche allgemeine Auskunftsbefugnis hat die Abgabenbehörde nach § 143 BAO?",
+    "correct_answer": "Zur Erfüllung ihrer Aufgaben ist die Abgabenbehörde berechtigt, Auskunft über alle für die Erhebung von Abgaben maßgebenden Tatsachen zu verlangen.",
+    "sources": "§ 143 Abs. 1 BAO",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003940&Paragraf=143",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-020",
+    "prompt": "Welche Körperschaften müssen alle ihre Einkünfte den Einkünften aus Gewerbebetrieb zurechnen?",
+    "correct_answer": "Körperschaften, die nach unternehmensrechtlichen Vorschriften rechnungslegungspflichtig sind, sowie rechnungslegungspflichtige Erwerbs- und Wirtschaftsgenossenschaften und vergleichbare ausländische Körperschaften müssen sämtliche Einkünfte den Einkünften aus Gewerbebetrieb zurechnen.",
+    "sources": "§ 7 Abs. 3 KStG 1988",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1988/401/P7/NOR40143601",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-021",
+    "prompt": "Ist es für die Einkommensermittlung einer Körperschaft relevant, ob Gewinne offen oder verdeckt ausgeschüttet werden?",
+    "correct_answer": "Nein. Für die Ermittlung des Einkommens ist es grundsätzlich ohne Bedeutung, ob das Einkommen im Wege offener oder verdeckter Ausschüttungen verteilt wird.",
+    "sources": "§ 8 Abs. 2 KStG 1988",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1988/401/P8/NOR12052975",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-022",
+    "prompt": "Sind Gewinnanteile aus Genussrechten bei einer inländischen Körperschaft als Beteiligungserträge steuerbefreit?",
+    "correct_answer": "Ja. Gewinnanteile jeder Art auf Grund einer Beteiligung an inländischen Körperschaften in Form von Genussrechten und bestimmten sonstigen Finanzierungsinstrumenten zählen zu den befreiten Beteiligungserträgen.",
+    "sources": "§ 10 Abs. 1 Z 3 KStG 1988",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1988/401/P10/NOR40205407",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-023",
+    "prompt": "Sind Gewinnanteile aus Partizipationskapital bei der Körperschaft steuerbefreit?",
+    "correct_answer": "Ja. Gewinnanteile auf Grund von Partizipationskapital zählen ebenfalls zu den nach § 10 Abs. 1 befreiten Beteiligungserträgen.",
+    "sources": "§ 10 Abs. 1 Z 4 KStG 1988",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1988/401/P10/NOR40205407",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-024",
+    "prompt": "Welche Einkunftsart liegt vor, wenn jemand selbständig künstlerisch tätig ist?",
+    "correct_answer": "Einkünfte aus einer künstlerischen Tätigkeit gehören zu den Einkünften aus selbständiger Arbeit.",
+    "sources": "§ 22 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=22",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-025",
+    "prompt": "Welche Einkunftsart liegt vor, wenn jemand selbständig schriftstellerisch arbeitet?",
+    "correct_answer": "Einkünfte aus einer schriftstellerischen Tätigkeit gehören zu den Einkünften aus selbständiger Arbeit.",
+    "sources": "§ 22 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=22",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-026",
+    "prompt": "Welche Einkunftsart liegt vor, wenn jemand selbständig erzieherisch tätig ist?",
+    "correct_answer": "Einkünfte aus einer erzieherischen Tätigkeit zählen zu den Einkünften aus selbständiger Arbeit.",
+    "sources": "§ 22 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=22",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-027",
+    "prompt": "Wann können Stipendien im Zusammenhang mit einer wissenschaftlichen oder künstlerischen Tätigkeit zu Einkünften aus selbständiger Arbeit gehören?",
+    "correct_answer": "Stipendien können dazugehören, wenn sie wirtschaftlich einen Einkommensersatz darstellen und keine Einkünfte aus nichtselbständiger Arbeit sind.",
+    "sources": "§ 22 Z 1 lit. a EStG 1988",
+    "source_url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=22&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-028",
+    "prompt": "Liegt ein Gewerbebetrieb vor, wenn eine Tätigkeit zwar selbständig und nachhaltig ausgeübt wird, aber keine Gewinnabsicht besteht?",
+    "correct_answer": "Nein. Für Einkünfte aus Gewerbebetrieb verlangt § 23 EStG unter anderem eine Betätigung mit Gewinnabsicht.",
+    "sources": "§ 23 Z 1 EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=23",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-029",
+    "prompt": "Fallen Einkünfte aus Land- und Forstwirtschaft unter § 23 EStG als Einkünfte aus Gewerbebetrieb?",
+    "correct_answer": "Nein. § 23 EStG erfasst nur Tätigkeiten, die weder als Ausübung der Land- und Forstwirtschaft noch als selbständige Arbeit anzusehen sind.",
+    "sources": "§ 23 Z 1 EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=23",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-030",
+    "prompt": "Wie werden Zinsen behandelt, die ein Mitunternehmer für ein Darlehen an seine Personengesellschaft erhält?",
+    "correct_answer": "Vergütungen, die ein Gesellschafter von der Gesellschaft für Darlehen erhält, gehören bei Mitunternehmerschaften zu den Einkünften aus Gewerbebetrieb.",
+    "sources": "§ 23 Z 2 EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=23",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-031",
+    "prompt": "Können auch Vorteile aus einem früheren Dienstverhältnis Einkünfte aus nichtselbständiger Arbeit sein?",
+    "correct_answer": "Ja. Auch Bezüge und Vorteile aus einem früheren Dienstverhältnis zählen grundsätzlich zu den Einkünften aus nichtselbständiger Arbeit.",
+    "sources": "§ 25 Abs. 1 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=25&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-032",
+    "prompt": "Zählt ein geldwerter Vorteil wie ein Sachbezug aus dem Dienstverhältnis zu den Einkünften aus nichtselbständiger Arbeit?",
+    "correct_answer": "Ja. Zu den Einkünften aus nichtselbständiger Arbeit zählen nicht nur Geldzahlungen, sondern auch Vorteile aus einem Dienstverhältnis.",
+    "sources": "§ 25 Abs. 1 Z 1 lit. a EStG 1988",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004570&Paragraf=25&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-033",
+    "prompt": "Unterliegt die Einfuhr von Gegenständen nach dem UStG der Umsatzsteuer?",
+    "correct_answer": "Ja. Die Einfuhr von Gegenständen aus dem Drittlandsgebiet in das Inland unterliegt als Einfuhrumsatzsteuer der Umsatzsteuer.",
+    "sources": "§ 1 Abs. 1 Z 3 UStG 1994",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1994/663/P1/NOR12055666",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-034",
+    "prompt": "Unterliegt auch der innergemeinschaftliche Erwerb im Inland gegen Entgelt der Umsatzsteuer?",
+    "correct_answer": "Ja. Auch der innergemeinschaftliche Erwerb im Inland gegen Entgelt unterliegt der Umsatzsteuer.",
+    "sources": "Art. 1 Abs. 1 UStG 1994 Binnenmarkt",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=1&FassungVom=2026-02-13&Gesetzesnummer=10004929&Paragraf=&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-035",
+    "prompt": "Wann liegt ein innergemeinschaftlicher Erwerb gegen Entgelt vor?",
+    "correct_answer": "Ein innergemeinschaftlicher Erwerb gegen Entgelt liegt vor, wenn ein Gegenstand von einem Mitgliedstaat in einen anderen gelangt, der Erwerber Unternehmer für sein Unternehmen oder eine bestimmte juristische Person ist und die Lieferung an ihn durch einen Unternehmer gegen Entgelt im Rahmen seines Unternehmens ausgeführt wird.",
+    "sources": "Art. 1 Abs. 2 UStG 1994 Binnenmarkt",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=1&FassungVom=2026-02-13&Gesetzesnummer=10004929&Paragraf=&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-036",
+    "prompt": "Kann ein Unternehmer entrichtete Einfuhrumsatzsteuer als Vorsteuer abziehen?",
+    "correct_answer": "Ja. Die entrichtete Einfuhrumsatzsteuer für Gegenstände, die für das Unternehmen eingeführt wurden, gehört zu den abziehbaren Vorsteuerbeträgen.",
+    "sources": "§ 12 Abs. 1 Z 2 UStG 1994",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1994/663/P12/NOR12053211",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-037",
+    "prompt": "Darf Vorsteuer aus einer Anzahlungsrechnung schon vor Ausführung der Leistung abgezogen werden?",
+    "correct_answer": "Ja. Soweit der gesondert ausgewiesene Steuerbetrag auf eine Zahlung vor Ausführung des Umsatzes entfällt, ist der Vorsteuerabzug bereits möglich, wenn die Rechnung vorliegt und die Zahlung geleistet worden ist.",
+    "sources": "§ 12 Abs. 1 Z 1 UStG 1994",
+    "source_url": "https://ris.bka.gv.at/eli/bgbl/1994/663/P12/NOR12053211",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-038",
+    "prompt": "Wie lange müssen Bücher, Aufzeichnungen und Belege nach der BAO grundsätzlich aufbewahrt werden?",
+    "correct_answer": "Bücher, Aufzeichnungen und die dazugehörigen Belege sind grundsätzlich sieben Jahre aufzubewahren.",
+    "sources": "§ 132 Abs. 1 BAO",
+    "source_url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-02-15&Gesetzesnummer=10003940&Paragraf=132&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-039",
+    "prompt": "Müssen Bücher und Belege nach der BAO länger als sieben Jahre aufbewahrt werden, wenn noch ein Verfahren läuft?",
+    "correct_answer": "Ja. Sie sind über die sieben Jahre hinaus so lange aufzubewahren, wie sie für anhängige Verfahren von Bedeutung sind.",
+    "sources": "§ 132 Abs. 1 BAO",
+    "source_url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-02-15&Gesetzesnummer=10003940&Paragraf=132&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  },
+  {
+    "id": "CURATED-040",
+    "prompt": "Dürfen Bücher und bestimmte Aufzeichnungen nach der BAO auch im Ausland geführt werden?",
+    "correct_answer": "Ja. Bücher, die nach den §§ 124 oder 125 BAO zu führen sind oder freiwillig geführt werden, sowie bestimmte gesetzliche Aufzeichnungen dürfen grundsätzlich auch im Ausland geführt werden, wenn keine andere gesetzliche Anordnung entgegensteht.",
+    "sources": "§ 131 Abs. 1 BAO",
+    "source_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=&FassungVom=2026-02-24&Gesetzesnummer=10003940&Paragraf=131&ShowPrintPreview=True&Uebergangsrecht=",
+    "origin": "curated_from_ris"
+  }
+]

@@ -1,0 +1,80 @@
+Körperschaftsteuergesetz 1988 (KStG 1988)
+Paragraphen 7 bis 12 -- Körperschaftsteuer
+
+Quelle: BGBl. Nr. 401/1988 idgF
+
+§ 7 KStG 1988 -- Einkommen, Steuersatz
+
+(1) Der Körperschaftsteuer ist das Einkommen zugrunde zu legen, das die unbeschränkt steuerpflichtige Körperschaft innerhalb des Kalendernjahres erzielt hat.
+
+(2) Für die Ermittlung des Einkommens sind die Vorschriften des Einkommensteuergesetzes (EStG) anzuwenden, soweit im KStG nicht anderes bestimmt ist. Das bedeutet: Die Regeln zur Gewinnermittlung und zu den Betriebsausgaben aus dem EStG gelten auch für Körperschaften.
+
+(3) Körperschaftsteuersatz:
+Ab dem Veranlagungsjahr 2024: 23%
+(Zuvor: 25% bis 2022, 24% für das Jahr 2023)
+
+Mindest-KSt (§ 24 Abs. 4 KStG):
+GmbHs und AGs müssen auch bei Verlusten eine Mindestkörperschaftsteuer entrichten:
+- GmbH: 500 Euro pro Jahr
+- AG: 3.500 Euro pro Jahr
+
+§ 8 KStG 1988 -- Verdeckte Gewinnausschüttung
+
+(1) Offene und verdeckte Gewinnausschüttungen dürfen das Einkommen der Körperschaft nicht mindern.
+
+(2) Verdeckte Gewinnausschüttung liegt vor, wenn eine Körperschaft einem Gesellschafter oder einer ihm nahestehenden Person Vorteile gewährt, die sie einem fremden Dritten nicht gewähren würde. Beispiele:
+- Überhöhtes Gehalt für einen Gesellschafter-Geschäftsführer
+- Zinsloses oder niedrig verzinstes Darlehen an einen Gesellschafter
+- Kauf von Wirtschaftsgütern zu überhöhten Preisen vom Gesellschafter
+- Mietvertrag zu überhöhter Miete mit dem Gesellschafter
+
+Steuerliche Konsequenz:
+Der Vorteil wird dem steuerlichen Einkommen der Körperschaft hinzugerechnet (verdeckte Einlage beim Gesellschafter wird korrigiert). Beim Gesellschafter gilt der Vorteil als Gewinnausschüttung und unterliegt der Kapitalertragsteuer von 27,5%.
+
+Fremdvergleichsgrundsatz:
+Transaktionen zwischen verbundenen Unternehmen und Gesellschaftern müssen zu marktüblichen Bedingungen erfolgen. Maßstab ist der Preis, den unverbundene Dritte miteinander vereinbaren würden (Arm's-length-Prinzip).
+
+§ 9 KStG 1988 -- Gruppenbesteuerung
+
+(1) Verbundene Kapitalgesellschaften können eine Unternehmensgruppe bilden. Voraussetzung ist eine finanzielle Verbindung von mehr als 50% (Mehrheitsbeteiligung) zwischen dem Gruppenträger und den Gruppenmitgliedern.
+
+Wirkung der Gruppenbesteuerung:
+- Das steuerliche Ergebnis der Gruppenmitglieder wird dem Gruppenträger zugerechnet.
+- Verluste von Gruppenmitgliedern können mit Gewinnen des Gruppenträgers verrechnet werden.
+- Ausländische Verluste von direkten Beteiligungen können unter bestimmten Voraussetzungen einbezogen werden.
+
+Gruppenantrag: Die Gruppe wird auf Antrag beim Finanzamt gebildet. Der Antrag muss von allen Mitgliedern unterzeichnet werden.
+Mindestdauer: Die Gruppe muss mindestens drei Jahre bestehen.
+
+§ 10 KStG 1988 -- Beteiligungsertragsbefreiung
+
+Dividenden (Gewinnanteile) und andere Erträge aus Beteiligungen an inländischen Körperschaften sind bei der empfangenden Körperschaft von der Körperschaftsteuer befreit (Schachtelbefreiung).
+Das gilt unabhängig von der Höhe der Beteiligung.
+
+Internationale Schachtelbefreiung:
+Gewinnanteile aus ausländischen Körperschaften sind ebenfalls steuerfrei, wenn die Beteiligung mindestens 10% beträgt und die Körperschaft einer der österreichischen Körperschaftsteuer vergleichbaren ausländischen Steuer unterliegt.
+
+§ 11 KStG 1988 -- Abzugsfähige Aufwendungen
+
+Bei Körperschaften sind grundsätzlich alle betrieblich veranlassten Aufwendungen abzugsfähig, wie auch beim EStG.
+
+Besonderheit: Zinsen und Lizenzgebühren bei konzerninternen Transaktionen unterliegen strengen Nachweispflichten und dürfen den Fremdvergleichsgrundsatz nicht verletzen.
+
+§ 12 KStG 1988 -- Nicht abzugsfähige Aufwendungen
+
+Nicht abzugsfähig sind insbesondere:
+- Verdeckte Gewinnausschüttungen
+- Strafen und Geldstrafen
+- Spenden (außer an steuerlich begünstigte Einrichtungen)
+- Aufwendungen für die private Lebensführung der Gesellschafter
+
+§ 1 KStG 1988 -- Unbeschränkte Steuerpflicht
+
+Unbeschränkt körperschaftsteuerpflichtig sind juristische Personen, die ihre Geschäftsleitung oder ihren Sitz im Inland haben. Dazu gehören:
+- Aktiengesellschaften (AG)
+- Gesellschaften mit beschränkter Haftung (GmbH)
+- Genossenschaften
+- Vereine (soweit sie wirtschaftliche Tätigkeiten ausüben)
+- Privatstiftungen
+
+Besteuerung des Welteinkommens: Unbeschränkt steuerpflichtige Körperschaften werden mit ihrem weltweiten Einkommen besteuert, vorbehaltlich der Regelungen in Doppelbesteuerungsabkommen.

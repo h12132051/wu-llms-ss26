@@ -1,0 +1,78 @@
+Einkommensteuergesetz 1988 (EStG 1988)
+Paragraph 27 -- Einkünfte aus Kapitalvermögen
+
+Quelle: BGBl. Nr. 400/1988 idgF; zuletzt geändert durch das Ökosozialesteuerreformgesetz 2022
+
+§ 27 EStG 1988 -- Einkünfte aus Kapitalvermögen
+
+(1) Zu den Einkünften aus Kapitalvermögen gehören Einkünfte aus der Überlassung von Kapital sowie Einkünfte aus der Veräußerung von Kapitalvermögen.
+
+Einkünfte aus der Überlassung von Kapital (laufende Erträge):
+- Dividenden und Gewinnausschüttungen von Kapitalgesellschaften
+- Zinsen aus Bankguthaben, Festgeld und Sparbüchern
+- Zinsen aus Anleihen und Schuldverschreibungen
+- Staking-Erträge aus Kryptowährungen (seit 1. März 2022)
+- Zinsen aus privaten Darlehen
+
+Einkünfte aus der Veräußerung von Kapitalvermögen (Realisierungsgewinne):
+- Gewinne aus dem Verkauf von Aktien, Fonds und Anleihen
+- Gewinne aus dem Verkauf von Kryptowährungen (seit 1. März 2022)
+- Gewinne aus dem Tausch von Kryptowährungen (Krypto gegen Krypto)
+- Gewinne aus der Einlösung von Finanzinstrumenten
+
+§ 27a EStG 1988 -- Besonderer Steuersatz (Kapitalertragsteuer, KESt)
+
+(1) Kapitalerträge nach § 27 unterliegen grundsätzlich einem besonderen Steuersatz von 27,5%.
+
+Ausnahmen mit 25%:
+- Zinsen aus Bankguthaben und Sparbüchern bei österreichischen Banken
+
+(3) Die Steuer wird durch Kapitalertragsteuerabzug (KESt-Abzug) erhoben:
+- Bei inländischen Depots und Konten wird die KESt automatisch von der Bank einbehalten und abgeführt.
+- Bei ausländischen Depots muss der Steuerpflichtige die Erträge in der Einkommensteuererklärung angeben.
+
+Veranlagungsoption:
+Steuerpflichtige können beantragen, ihre Kapitalerträge zum allgemeinen Einkommensteuertarif zu versteuern (Regelbesteuerungsoption), wenn dies günstiger ist (z.B. bei sehr niedrigem Gesamteinkommen).
+
+Verlustausgleich (§ 27 Abs. 8 EStG):
+Verluste aus Kapitalvermögen (z.B. Verluste aus dem Verkauf von Aktien) können mit anderen Kapitalerträgen ausgeglichen werden.
+Nicht möglich: Verluste aus Kapitalvermögen dürfen nicht mit Einkünften aus anderen Einkunftsarten (z.B. Einkünfte aus Gewerbebetrieb) verrechnet werden.
+
+§ 27 Abs. 4a EStG 1988 -- Kryptowährungen (Neuregelung ab 1. März 2022)
+
+Ab 1. März 2022 gilt eine umfassende Neuregelung für Kryptowährungen:
+
+Was gilt als Kryptowährung im Sinne des EStG?
+Digitale Darstellungen eines Wertes, die nicht von einer Zentralbank begeben wurden, elektronisch übertragbar sind und als Zahlungsmittel oder Wertaufbewahrungsmittel dienen. Das umfasst Bitcoin, Ethereum, und vergleichbare Token.
+
+Steuerpflichtige Vorgänge bei Kryptowährungen:
+1. Verkauf von Kryptowährungen gegen Euro oder andere Fiatwährungen
+2. Tausch von Kryptowährungen gegen andere Kryptowährungen (z.B. Bitcoin gegen Ethereum)
+3. Verwendung von Kryptowährungen als Zahlungsmittel (Kauf von Waren)
+4. Staking-Erträge (laufende Einkünfte)
+5. Erträge aus Lending (Kryptowährungen verleihen gegen Zinsen)
+
+Nicht unter die Krypto-Regelung fallen (und damit steuerfrei seit März 2022):
+- Kryptowährungen, die vor dem 28. Februar 2021 angeschafft wurden (Altbestand) -- für diese gilt die Spekulationsfrist-Regelung der alten Rechtslage
+- Wertgegenstände ohne Zahlungsmittelfunktion (NFTs können je nach Ausgestaltung anders behandelt werden)
+
+Berechnung des steuerpflichtigen Gewinns:
+Gewinn = Veräußerungserlös minus Anschaffungskosten (Kaufkurs)
+
+Bei mehreren Ankäufen zum gleichen Kurs wird der gleitende Durchschnittspreis verwendet (FIFO-Methode ist alternativ möglich, wenn konsequent angewendet).
+
+Staking-Erträge:
+Staking-Belohnungen gelten bei Zufluss als steuerpflichtige Einnahmen (Anschaffungskosten = Marktwert zum Zuflusszeitpunkt).
+Werden die erhaltenen Tokens später verkauft, entsteht ein weiterer Realisierungsgewinn oder -verlust.
+
+KESt-Abzug durch depotführende Banken:
+Österreichische Kryptobörsen sind grundsätzlich zur KESt-Einbehaltung verpflichtet, wenn sie in Österreich ansässig sind. Viele internationale Kryptobörsen haben keinen KESt-Abzug, daher müssen Gewinne selbst in der Steuererklärung angegeben werden.
+
+§ 30 EStG 1988 -- Private Grundstücksveräußerungen (Abgrenzung)
+
+Immobilien fallen nicht unter § 27, sondern unter § 30 EStG (Immobilienertragsteuer 30%).
+Kryptowährungen fallen seit 2022 ausschließlich unter § 27 EStG (27,5% KESt), nicht unter § 30 (Immobilien) und nicht mehr unter § 31 (Spekulation).
+
+Dividenden aus ausländischen Aktien:
+Dividenden aus ausländischen Aktiengesellschaften unterliegen ebenfalls der österreichischen KESt von 27,5%.
+Wurden im Ausland bereits Quellensteuern einbehalten, können diese nach Maßgabe der Doppelbesteuerungsabkommen angerechnet werden.

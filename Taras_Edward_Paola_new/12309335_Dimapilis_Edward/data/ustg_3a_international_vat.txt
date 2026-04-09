@@ -1,0 +1,56 @@
+Umsatzsteuergesetz 1994 (UStG 1994)
+Paragraph 3a -- Ort der sonstigen Leistung (Internationales Steuerrecht)
+
+Quelle: BGBl. Nr. 663/1994 idgF; umgesetzt aus EU-Richtlinie 2006/112/EG
+
+§ 3a UStG 1994 -- Ort der sonstigen Leistung
+
+Grundregeln:
+
+(6) B2B-Grundregel (Leistung an Unternehmer):
+Wird eine sonstige Leistung an einen anderen Unternehmer erbracht, liegt der Leistungsort dort, wo der Empfänger sein Unternehmen betreibt (Empfängerortprinzip).
+Beispiel: Ein österreichischer Unternehmensberater berät ein deutsches Unternehmen in Deutschland. Der Leistungsort ist Deutschland. Der österreichische Unternehmer stellt ohne österreichische Umsatzsteuer in Rechnung; der deutsche Empfänger schuldet die deutsche USt (Reverse Charge).
+
+(7) B2C-Grundregel (Leistung an Privatpersonen):
+Wird eine sonstige Leistung an eine Privatperson erbracht, liegt der Leistungsort grundsätzlich am Sitz des leistenden Unternehmers.
+Ausnahmen gelten unter anderem für digitale Dienstleistungen.
+
+Wichtige Ausnahmen (Sonderregelungen):
+
+(12) Grundstücksbezogene Leistungen:
+Der Leistungsort liegt dort, wo das Grundstück liegt.
+Gilt für Architekten, Bauunternehmer, Immobilienmakler und Vermessungsingenieure.
+
+(13) Elektronisch erbrachte Dienstleistungen an Privatpersonen (B2C):
+Seit 1. Januar 2015 gilt: Der Leistungsort ist der Wohnsitzstaat des Kunden, nicht der Sitz des Anbieters.
+Das gilt für:
+- Streaming-Dienste (Video, Musik, Software)
+- Online-Spiele
+- Webhosting und Cloud-Dienste
+- E-Books und digitale Zeitschriften
+
+Konsequenz: Ein österreichischer Anbieter digitaler Dienste an Privatkunden in Deutschland muss deutsche Umsatzsteuer (19%) abführen.
+Lösung: One-Stop-Shop (§ 25a UStG 1994) -- der Anbieter kann alle EU-weiten B2C-Umsätze zentral in Österreich erklären und die jeweilige Landessteuer über eine einzige Meldung abführen.
+
+Telekommunikations-, Rundfunk- und elektronische Dienstleistungen:
+Sonderregelung für Kleinunternehmer: Unterschreitet der EU-weite Umsatz mit solchen Diensten 10.000 Euro, darf der Anbieter die Steuer seines eigenen Landes anwenden (vereinfachte Regelung für Kleinstunternehmer).
+
+§ 25a UStG 1994 -- One-Stop-Shop (OSS)
+
+Unternehmer, die in der EU Dienstleistungen an Privatpersonen erbringen (insbesondere digitale Dienste), können alle EU-weiten B2C-Umsätze über den One-Stop-Shop in einem einzigen EU-Mitgliedstaat erklären.
+Sie müssen sich nicht in jedem Empfängerland einzeln für die Umsatzsteuer registrieren.
+Die Österreich-Registrierung erfolgt über FinanzOnline.
+
+§ 3a Abs. 11 -- Veranstaltungsleistungen:
+Bei Eintrittsberechtigungen zu Veranstaltungen (kulturell, sportlich, wissenschaftlich) liegt der Leistungsort am Ort der Veranstaltung.
+
+Innergemeinschaftliche Lieferungen und Erwerbe:
+
+Innergemeinschaftliche Lieferung (§ 6 Abs. 1 Z 1 i.V.m. Art. 7 UStG):
+Eine Lieferung von Österreich in einen anderen EU-Staat an einen Unternehmer ist steuerfrei in Österreich, wenn die Ware tatsächlich dorthin gelangt und der Empfänger eine gültige UID-Nummer hat.
+
+Innergemeinschaftlicher Erwerb (§ 1 Abs. 1 Z 1 UStG i.V.m. Art. 1 UStG):
+Ein Unternehmer, der Waren aus einem anderen EU-Staat kauft, schuldet die österreichische Umsatzsteuer auf den Erwerb. Gleichzeitig kann er die Vorsteuer geltend machen.
+
+Einfuhr aus Drittländern:
+Waren aus Ländern außerhalb der EU unterliegen der Einfuhrumsatzsteuer (EUSt) bei der Zollabfertigung. Diese kann als Vorsteuer abgezogen werden.

@@ -1,0 +1,80 @@
+Einkommensteuergesetz 1988 (EStG 1988)
+Paragraph 28 -- Einkünfte aus Vermietung und Verpachtung
+
+Quelle: BGBl. Nr. 400/1988 idgF
+
+§ 28 EStG 1988 -- Einkünfte aus Vermietung und Verpachtung
+
+(1) Einkünfte aus Vermietung und Verpachtung sind Einkünfte aus der entgeltlichen Überlassung von:
+- unbeweglichem Vermögen (Grundstücke, Gebäude, Wohnungen)
+- Sachinbegriffen (z.B. eingerichtete Wohnungen, Betriebe)
+- Rechten (z.B. Lizenzen, Nutzungsrechte an geistigem Eigentum)
+
+Gewinnermittlung:
+Überschuss der Einnahmen über die Werbungskosten = steuerpflichtige Einkünfte aus V+V.
+(Einkünfte aus V+V = Überschussrechnung, keine Bilanzierung)
+
+§ 16 EStG 1988 -- Werbungskosten bei V+V (wichtige Kategorien)
+
+Abzugsfähige Werbungskosten bei Vermietung:
+
+1. Finanzierungskosten:
+- Zinsen für Kredite, die zur Anschaffung, Herstellung oder Instandsetzung der Immobilie aufgenommen wurden
+- Bankgebühren im Zusammenhang mit der Finanzierung
+
+2. Absetzung für Abnutzung (AfA):
+- Gebäude können steuerlich über ihre Nutzungsdauer abgeschrieben werden
+- Pauschal-AfA für Wohngebäude: 1,5% des Gebäudewertes pro Jahr (nicht des Gesamtkaufpreises, Grund und Boden wird herausgerechnet)
+- Nachweis einer kürzeren Nutzungsdauer ist durch Gutachten möglich
+
+3. Betriebskosten (soweit vom Vermieter getragen):
+- Versicherungsprämien (Gebäudeversicherung)
+- Betriebskosten laut Mietrechtsgesetz (Wasser, Kanalgebühr, Müllabfuhr)
+- Hausverwaltungskosten
+
+4. Instandhaltungsaufwendungen:
+- Laufende Reparaturen, die den bestehenden Zustand erhalten
+- Sofort abziehbar im Jahr der Bezahlung
+
+5. Steuerberatungskosten, soweit auf die Vermietung entfallend
+
+Nicht abzugsfähig:
+- Private Aufwendungen des Vermieters
+- Umsatzsteuer bei steuerfreier Vermietung ohne Option
+
+§ 28 Abs. 2 EStG 1988 -- Unterschied: Instandhaltung vs. Herstellung
+
+Dies ist eine der wichtigsten Abgrenzungen bei Vermietungseinkünften:
+
+Instandhaltungsaufwand (sofort abzugsfähig):
+- Reparaturen, die den bestehenden Zustand wiederherstellen
+- Austausch von Fenstern, Böden, Installationen im Gleichartigkeitsprinzip
+- Malerarbeiten und Schönheitsreparaturen
+- Beseitigung von Schäden
+
+Herstellungsaufwand (muss aktiviert und abgeschrieben werden):
+- Aufwendungen, die über die bloße Erhaltung hinausgehen
+- Wesentliche Verbesserungen (z.B. Einbau einer neuen Heizungsanlage, wo vorher keine war)
+- Errichtung von Anbauten und Zubauten
+- Zusammenlegung von Wohnungen
+- Maßnahmen, die eine wesentliche Nutzungsänderung bewirken
+
+Zehntelabsetzung (§ 28 Abs. 2 EStG):
+Instandsetzungsaufwendungen (größere Reparaturen an Gebäuden, die der Erzielung von Mieteinkünften dienen) können auf Antrag gleichmäßig auf 10 Jahre verteilt werden. Das ist bei hohen einmaligen Kosten steuerlich günstiger.
+
+§ 28 Abs. 3 EStG 1988 -- Herstellungsaufwendungen auf Verlangen des Mieters:
+Wenn ein Mieter auf eigene Kosten Herstellungsaufwendungen vornimmt und dafür eine Mietzinsreduktion erhält, liegt beim Vermieter ein Einnahmenersatz vor, der zu versteuern ist.
+
+Umsatzsteuer bei Vermietung:
+
+Steuerfreie Vermietung (§ 6 Abs. 1 Z 16 UStG):
+Die Vermietung von Wohnräumen ist grundsätzlich umsatzsteuerfrei. Der Vermieter darf keine Umsatzsteuer verrechnen und hat keinen Vorsteuerabzug.
+
+Option zur Umsatzsteuerpflicht:
+Bei der Vermietung von Geschäftsräumen, Büros und Betriebsliegenschaften kann der Vermieter zur Umsatzsteuerpflicht optieren (10% oder 20% USt, je nach Art der Nutzung), wenn der Mieter zum Vorsteuerabzug berechtigt ist. Damit kann der Vermieter Vorsteuer aus den Anschaffungs- und Sanierungskosten abziehen.
+
+Kurzfristige Vermietung (Airbnb):
+Kurzfristige Zimmervermietung (wie bei Airbnb) unterliegt der Umsatzsteuer mit 10% (Beherbergungsleistung). Bei Überschreitung der Kleinunternehmergrenze muss der Vermieter USt abführen.
+
+Liebhaberei bei Vermietung:
+Wenn eine Mietobjekt dauerhaft Verluste abwirft und keine realistische Prognose auf Gesamtüberschuss besteht, kann die Finanzverwaltung die Tätigkeit als Liebhaberei einstufen. Verluste wären dann steuerlich nicht anerkannt. Eine Prognoserechnung über 25 Jahre (bei kleinen Mietobjekten) ist zu erstellen.

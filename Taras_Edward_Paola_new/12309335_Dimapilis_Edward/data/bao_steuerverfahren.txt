@@ -1,0 +1,63 @@
+Bundesabgabenordnung (BAO)
+Allgemeines Steuerverfahrensrecht in Österreich
+
+Quelle: BGBl. Nr. 194/1961 idgF
+
+Einleitung:
+Die Bundesabgabenordnung (BAO) ist das allgemeine Verfahrensgesetz des österreichischen Steuerrechts. Sie regelt das Verhältnis zwischen Steuerpflichtigen und den Abgabenbehörden, die Festsetzung und Einhebung von Abgaben, Rechtsmittel und Verjährungsfristen.
+
+§ 114 BAO -- Grundsatz der Gleichmäßigkeit der Besteuerung:
+Die Abgabenbehörden sind verpflichtet, alle Abgaben gesetzmäßig und gleichmäßig zu erheben.
+
+§ 119 BAO -- Offenlegungs- und Wahrheitspflicht:
+Steuerpflichtige sind verpflichtet, der Abgabenbehörde alle für die Abgabenerhebung bedeutsamen Umstände vollständig und wahrheitsgemäß offenzulegen.
+
+§ 132 BAO -- Aufbewahrungspflicht:
+Bücher, Aufzeichnungen, Belege und Geschäftspapiere müssen sieben Jahre aufbewahrt werden.
+Ausnahme: Unterlagen für Grundstücke und Immobilien sind 22 Jahre aufzubewahren.
+Die Frist beginnt mit Ende des Kalenderjahres, auf das sich die Unterlagen beziehen.
+Elektronische Aufzeichnungen müssen in lesbarer und bearbeitbarer Form aufbewahrt werden.
+
+§ 133 BAO -- Einreichung von Abgabenerklärungen:
+Steuerpflichtige müssen ihre Steuererklärungen fristgerecht einreichen.
+Die reguläre Frist für Einkommensteuererklärungen ist der 30. April des Folgejahres (Papier) bzw. 30. Juni (FinanzOnline).
+Bei Vertretung durch Steuerberater kann eine verlängerte Frist bis Ende des übernächsten Jahres gelten (Quotenregelung).
+
+§ 147 BAO -- Außenprüfung (Betriebsprüfung):
+Die Abgabenbehörde kann die steuerlichen Verhältnisse von Abgabepflichtigen prüfen.
+Bei einer Außenprüfung werden Bücher, Belege und Aufzeichnungen für mehrere Jahre geprüft.
+Der Steuerpflichtige hat Mitwirkungspflicht (Auskunfts- und Vorhaltepflicht).
+
+§ 162 BAO -- Empfängerbenennung:
+Wenn Betriebsausgaben steuerlich geltend gemacht werden, kann die Behörde verlangen, den Empfänger der Zahlung zu nennen. Wird der Empfänger nicht genannt, können die Ausgaben nicht anerkannt werden.
+
+§ 184 BAO -- Schätzungsberechtigung:
+Wenn Bücher und Aufzeichnungen mangelhaft sind oder fehlen, ist die Behörde berechtigt, die Bemessungsgrundlage zu schätzen. Das birgt das Risiko einer höheren Steuervorschreibung.
+
+§ 207 BAO -- Verjährung (Festsetzungsverjährung):
+Festsetzungsverjährung: Das Finanzamt kann Abgaben grundsätzlich nur innerhalb von fünf Jahren nach Ablauf des Jahres, in dem der Abgabenanspruch entstanden ist, festsetzen.
+Bei hinterzogenen Abgaben beträgt die Verjährungsfrist zehn Jahre.
+Durch bestimmte Handlungen der Behörde (z.B. Betriebsprüfung) kann die Verjährung unterbrochen werden.
+
+§ 227 BAO -- Einhebungsverjährung:
+Bereits festgesetzte, aber noch nicht eingehobene Abgaben verjähren nach fünf Jahren.
+
+Rechtsmittel gegen Steuerbescheide:
+
+§ 243 BAO -- Beschwerde:
+Gegen Bescheide der Abgabenbehörde kann innerhalb von einem Monat nach Zustellung Beschwerde erhoben werden.
+Die Beschwerde ist schriftlich einzureichen und muss begründet werden.
+Sie hat grundsätzlich keine aufschiebende Wirkung (die Steuer muss trotzdem gezahlt werden, außer bei Antrag auf Aussetzung der Einhebung).
+
+§ 212a BAO -- Aussetzung der Einhebung:
+Bei einer zulässigen Beschwerde kann beantragt werden, dass die Fälligkeit der Steuer bis zur Entscheidung aufgeschoben wird.
+
+Bundesfinanzgericht (BFG):
+Wird der Beschwerdebescheid durch die Abgabenbehörde abgewiesen, kann Beschwerde an das Bundesfinanzgericht erhoben werden.
+Gegen Entscheidungen des BFG kann Revision beim Verwaltungsgerichtshof (VwGH) oder Beschwerde beim Verfassungsgerichtshof (VfGH) eingebracht werden.
+
+Selbstanzeige (§ 29 FinStrG):
+Wer Abgaben hinterzogen hat, kann durch rechtzeitige Selbstanzeige beim Finanzamt Straffreiheit erlangen, wenn die verkürzte Steuer gleichzeitig vollständig nachgezahlt wird. Die Selbstanzeige muss vor Entdeckung der Tat erstattet werden.
+
+FinanzOnline:
+Das elektronische Kommunikationsportal der österreichischen Finanzverwaltung. Steuerpflichtige können dort Steuererklärungen einreichen, Bescheide empfangen und einsehen, Anträge stellen und Zahlungen durchführen. Für viele Unternehmer ist die elektronische Einreichung über FinanzOnline verpflichtend.

@@ -1,0 +1,72 @@
+Einkommensteuergesetz 1988 (EStG 1988)
+Paragraph 22 -- Einkünfte aus selbständiger Arbeit
+
+Quelle: BGBl. Nr. 400/1988 idgF
+
+§ 22 EStG 1988 -- Einkünfte aus selbständiger Arbeit
+
+(1) Einkünfte aus selbständiger Arbeit sind:
+
+1. Einkünfte aus einer freiberuflichen Tätigkeit. Zur freiberuflichen Tätigkeit gehören:
+   - Ärzte, Zahnärzte, Tierärzte
+   - Rechtsanwälte, Notare, Patentanwälte
+   - Wirtschaftstreuhänder, Steuerberater, Unternehmensberater
+   - Ziviltechniker, Ingenieure, Architekten
+   - Künstler, Schriftsteller, Journalisten, Vortragende
+   - Lehrer und Erzieher, soweit freiberuflich tätig
+
+2. Einkünfte aus sonstiger selbständiger Arbeit, insbesondere:
+   - Vergütungen der Gesellschafter-Geschäftsführer, die nicht als unselbständig einzustufen sind
+   - Aufsichtsratsvergütungen
+   - Provisionen aus gelegentlicher Tätigkeit, die nicht nachhaltig ausgeübt wird
+
+Abgrenzung: Selbständig oder unselbständig?
+
+Die Abgrenzung zwischen selbständiger Arbeit (§ 22 EStG) und nichtselbständiger Arbeit (§ 25 EStG) erfolgt nach dem Gesamtbild der Tätigkeit.
+
+Merkmale selbständiger Tätigkeit:
+- kein Weisungsrecht des Auftraggebers hinsichtlich Arbeitszeit und -ort
+- eigenes wirtschaftliches Risiko (Haftung)
+- Verwendung eigener Betriebsmittel
+- freie Zeiteinteilung
+- Tätigkeit für mehrere Auftraggeber möglich
+
+Merkmale nichtselbständiger Tätigkeit:
+- persönliche Abhängigkeit (Weisungsgebundenheit)
+- Eingliederung in die betriebliche Organisation des Arbeitgebers
+- keine eigene Betriebsstätte
+- kein Unternehmerrisiko
+
+Freier Dienstvertrag:
+Der freie Dienstvertrag liegt zwischen selbständiger und unselbständiger Arbeit. Der freie Dienstnehmer schuldet nur Dienstleistungen (nicht ein Werk) und hat ein gewisses Maß an Selbständigkeit. Sozialversicherungsrechtlich unterliegt er jedoch häufig dem ASVG, nicht dem GSVG.
+
+§ 4 Abs. 4 EStG 1988 -- Betriebsausgaben
+
+Betriebsausgaben sind Aufwendungen, die durch den Betrieb veranlasst sind.
+
+Typische Betriebsausgaben bei Freiberuflern:
+- Miete und Betriebskosten für das Büro oder die Praxis
+- Arbeitsmittel (Computer, Fachliteratur, Software)
+- Telefon- und Internetkosten (betrieblicher Anteil)
+- Fortbildungskosten
+- Kfz-Kosten für betriebliche Fahrten (Fahrtenbuch oder Pauschale)
+- Krankenversicherungsbeiträge nach dem GSVG
+- Pflichtbeiträge zur Sozialversicherung
+
+Nicht abzugsfähige Ausgaben:
+- private Lebenshaltungskosten
+- Repräsentationsaufwendungen (zur Hälfte abzugsfähig, wenn betrieblich veranlasst)
+- Kleidung (außer spezifischer Berufskleidung)
+
+Gewinnermittlung bei Selbständigen:
+
+Einnahmen-Ausgaben-Rechnung (§ 4 Abs. 3 EStG):
+Für Selbständige mit Umsatz unter 700.000 Euro, die nicht rechnungslegungspflichtig sind.
+Gewinn = Einnahmen minus tatsächlich bezahlte Ausgaben (Zufluss-Abfluss-Prinzip).
+
+Betriebsvermögensvergleich (Bilanzierung):
+Für Selbständige, die rechnungslegungspflichtig sind (Umsatz über 700.000 Euro).
+Gewinn = Betriebsvermögen am Ende des Jahres minus Betriebsvermögen am Anfang.
+
+Pauschalierungsmöglichkeiten:
+Bestimmte Freiberufler können die Betriebsausgaben pauschal mit 6% des Umsatzes (mindestens 13% bei bestimmten Tätigkeiten) geltend machen, statt alle Ausgaben einzeln nachzuweisen (Basispauschalierung nach § 17 EStG).

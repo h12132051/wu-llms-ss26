@@ -1,0 +1,79 @@
+Einkommensteuergesetz 1988 (EStG 1988)
+Paragraph 23 -- Einkünfte aus Gewerbebetrieb
+
+Quelle: BGBl. Nr. 400/1988 idgF
+
+§ 23 EStG 1988 -- Einkünfte aus Gewerbebetrieb
+
+Einkünfte aus Gewerbebetrieb sind Einkünfte aus einer:
+1. selbständigen
+2. nachhaltigen
+3. auf Gewinnerzielungsabsicht gerichteten
+4. an dem allgemeinen wirtschaftlichen Verkehr teilnehmenden Tätigkeit,
+die weder als Land- und Forstwirtschaft noch als selbständige Arbeit (§ 22) einzustufen ist.
+
+Typische Gewerbebetriebs-Einkünfte:
+- Handel (Kauf und Verkauf von Waren)
+- Handwerk und produzierende Gewerbe
+- Gastronomie und Hotellerie
+- Online-Handel und E-Commerce
+- gewerbsmäßiger Handel mit Kryptowährungen (bei professioneller und nachhaltiger Tätigkeit)
+- Vermietung, wenn sie in gewerblichem Umfang erfolgt (mit Zusatzleistungen, z.B. Ferienwohnungen mit Serviceleistungen)
+
+Abgrenzung Gewerbebetrieb vs. selbständige Arbeit (§ 22):
+- Freiberufliche Tätigkeiten (Ärzte, Anwälte, Künstler) fallen unter § 22
+- Handwerkliche und kaufmännische Tätigkeiten fallen unter § 23
+- Bei gemischten Tätigkeiten entscheidet der Schwerpunkt
+
+§ 4 Abs. 4 EStG 1988 -- Betriebsausgaben
+
+Betriebsausgaben sind Aufwendungen, die durch den Betrieb veranlasst sind.
+
+Klar betrieblich veranlasste Ausgaben (immer abzugsfähig):
+- Wareneinkauf und Materialkosten
+- Personalaufwand (Gehälter, Sozialversicherungsbeiträge des Arbeitgebers)
+- Miete für Betriebsräume
+- Versicherungen (Betriebshaftpflicht, Berufsunfähigkeit betrieblich)
+- Marketing und Werbung
+- Fachliteratur und Fortbildung
+- Telefon und Internet (betrieblicher Anteil)
+- Steuerberatung und Buchhaltung
+- Reisekosten für betriebliche Reisen
+- Abschreibungen (AfA) auf Betriebsvermögen
+
+Gemischte Aufwendungen (teils privat, teils betrieblich):
+- Müssen aufgeteilt werden nach dem betrieblichen Anteil
+- Beispiel: Ein selbständiger Dolmetscher nutzt sein Auto zu 60% betrieblich und zu 40% privat. 60% der Kfz-Kosten sind Betriebsausgabe.
+- Bei Heimarbeitsplatz (Home Office): Anteilige Miete abzugsfähig, wenn ein eigener Raum ausschließlich beruflich genutzt wird.
+
+Nicht abzugsfähige Ausgaben (§ 20 EStG 1988):
+- Aufwendungen für die private Lebensführung, auch wenn sie im weitesten Sinn mit der beruflichen Tätigkeit zusammenhängen
+- Repräsentationsaufwendungen (zur Hälfte abzugsfähig, wenn betrieblicher Anlass nachweisbar)
+- Kleidung (außer spezifischer Schutzkleidung oder Berufsbekleidung, die nicht privat tragbar ist)
+- Kosten für das eigene Lebensunterhalts des Unternehmers
+- Geschenke über 50 Euro pro Empfänger (von geringem Wert können als Werbeaufwand abzugsfähig sein)
+
+Häufige Abgrenzungsprobleme:
+
+Geschäftsessen:
+Aufwendungen für Geschäftsessen sind nur zu 50% abzugsfähig, wenn ein betrieblicher Anlass nachweisbar ist. Rein private Einladungen sind nicht abzugsfähig.
+
+Fahrzeuge:
+- Für PKW und Kombifahrzeuge, die als PKW gelten, ist der Vorsteuerabzug auf die USt ausgeschlossen.
+- Bei der ESt: Kfz-Kosten sind nur abzugsfähig, soweit das Fahrzeug betrieblich genutzt wird.
+- Nachweis: Fahrtenbuch oder plausible Schätzung des betrieblichen Anteils.
+
+Gewinnermittlungsarten:
+
+1. Einnahmen-Ausgaben-Rechnung (§ 4 Abs. 3 EStG):
+Für nicht buchführungspflichtige Gewerbetreibende (Umsatz unter 700.000 Euro).
+Gewinn = Einnahmen minus Ausgaben (Zufluss-Abfluss-Prinzip).
+Keine Bewertung von Vorräten und Forderungen nötig.
+
+2. Bilanzierung (§ 4 Abs. 1 oder § 5 EStG):
+Für buchführungspflichtige Unternehmer (Umsatz über 700.000 Euro oder freiwillig).
+Gewinn = Betriebsvermögen Ende des Jahres minus Betriebsvermögen Beginn plus Entnahmen minus Einlagen.
+Vorräte und Forderungen werden bewertet.
+
+Investitionsfreibetrag (IFB) -- § 11 EStG 1988:
+Seit 2023 können Gewerbetreibende und Freiberufler für Investitionen in neue abnutzbare Wirtschaftsgüter einen Investitionsfreibetrag von 10% (bei bestimmten ökologischen Investitionen 15%) geltend machen. Dieser Betrag wird vom steuerlichen Gewinn abgezogen.

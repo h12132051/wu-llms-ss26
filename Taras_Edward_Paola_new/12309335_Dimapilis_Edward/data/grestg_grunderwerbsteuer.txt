@@ -1,0 +1,80 @@
+Grunderwerbsteuergesetz 1987 (GrEStG 1987)
+Grunderwerbsteuer in Österreich
+
+Quelle: BGBl. Nr. 309/1987 idgF
+
+§ 1 GrEStG 1987 -- Steuerbare Vorgänge
+
+Der Grunderwerbsteuer unterliegen Rechtsvorgänge, die den Anspruch auf Übereignung eines inländischen Grundstücks begründen:
+- Kaufverträge über Grundstücke und Immobilien
+- Schenkungen von Grundstücken
+- Erbfälle (Erwerb von Todes wegen)
+- Tausch von Grundstücken
+- Übertragungen im Rahmen von Unternehmenszusammenschlüssen
+- Erwerb durch Gesellschaftsgründung, wenn Grundstücke eingebracht werden
+
+Grundstücksbegriff: Grundstücke im Sinne des GrEStG umfassen Grund und Boden, Gebäude, Eigentumswohnungen (Wohnungseigentum) und grundstücksgleiche Rechte (z.B. Baurechte).
+
+§ 4 GrEStG 1987 -- Bemessungsgrundlage
+
+(1) Grundregel:
+Die Steuer wird vom Wert der Gegenleistung (in der Regel dem Kaufpreis) berechnet.
+
+(2) Bei unentgeltlichen Erwerben (Schenkung, Erbschaft) und Erwerben im Familienverband:
+Die Bemessungsgrundlage ist der Grundstückswert (GW), der nach der Grundstückswertverordnung ermittelt wird.
+
+Grundstückswertverordnung:
+Der Grundstückswert kann auf zwei Wegen berechnet werden:
+a) Pauschalwertmethode: Bodenwert (aus Bodenwertkarte) plus Gebäudewert (pauschale Berechnung nach Nutzfläche und Baujahr)
+b) Immobilienpreisspiegel-Methode: 71,25% des aus dem Immobilienpreisspiegel abgeleiteten Werts
+
+§ 7 GrEStG 1987 -- Steuersatz
+
+(1) Für Erwerbe unter fremden Dritten (normaler Kauf):
+3,5% der Bemessungsgrundlage (Kaufpreis)
+
+(2) Für Erwerbe im Familienverband und unentgeltliche Erwerbe:
+Stufentarif nach dem Grundstückswert:
+- 0,5% für die ersten 250.000 Euro
+- 2,0% für den Betrag von 250.001 bis 400.000 Euro
+- 3,5% für Beträge über 400.000 Euro
+
+Familienverband im Sinne des GrEStG:
+- Ehegatten und eingetragene Partner (auch nach Scheidung innerhalb von drei Jahren)
+- Eltern, Kinder, Enkel, Großeltern
+- Geschwister, Nichten, Neffen
+- Schwiegerkinder, Schwiegereltern, Stiefeltern, Stiefkinder
+
+(3) Bei Erbfällen:
+Erwerbe von Todes wegen innerhalb des Familienverbands unterliegen dem begünstigten Stufentarif.
+
+§ 3 GrEStG 1987 -- Befreiungen
+
+Wichtige Befreiungen von der Grunderwerbsteuer:
+- Erwerbe, bei denen die Bemessungsgrundlage 1.100 Euro nicht übersteigt
+- Bestimmte Übertragungen im Rahmen von Umgründungen nach dem Umgründungssteuergesetz (UmgrStG)
+- Erwerbe nach dem Wohnungsgemeinnützigkeitsgesetz
+
+Hinweis: Es gibt in Österreich keine allgemeine Befreiung für den Kauf eines Hauptwohnsitzes. Die häufig genannte "Hauptwohnsitzbefreiung" bezieht sich auf die Immobilienertragsteuer (ImmoESt), nicht auf die Grunderwerbsteuer.
+
+Grundbucheintragungsgebühr:
+Zusätzlich zur Grunderwerbsteuer fällt bei der Eintragung des Eigentumsrechts im Grundbuch eine Eintragungsgebühr von 1,1% des Einheitswertes (mindestens des dreifachen Einheitswertes) an. Seit 2022 wird ein neues Berechnungssystem verwendet.
+
+§ 9 GrEStG 1987 -- Steuerschuld und Fälligkeit
+
+Die Steuerschuld entsteht mit dem Abschluss des Kaufvertrags oder des sonstigen Rechtsvorgangs.
+Die Steuer ist innerhalb von drei Monaten nach Entstehung der Steuerschuld zu entrichten.
+In der Praxis kümmert sich meist der Notar oder Rechtsanwalt, der die Urkunde errichtet, um die Berechnung und Abfuhr der Grunderwerbsteuer (Selbstberechnung durch Parteienvertreter).
+
+Immobilienertragsteuer (ImmoESt) nach § 30a EStG 1988 -- Abgrenzung zur GrEStG:
+
+Die Grunderwerbsteuer und die Immobilienertragsteuer sind zwei separate Steuern:
+- GrEStG: Steuer auf den Vorgang der Eigentumsübertragung (zahlt der Käufer)
+- ImmoESt: Steuer auf den Gewinn aus der Veräußerung (zahlt der Verkäufer)
+
+ImmoESt: 30% des Veräußerungsgewinns (Verkaufspreis minus Anschaffungskosten minus Kosten)
+
+Befreiungen von der ImmoESt:
+1. Hauptwohnsitzbefreiung: Das Grundstück wurde seit der Anschaffung bis zur Veräußerung durchgehend als Hauptwohnsitz genutzt.
+2. Alternativ: Der Verkäufer hat das Grundstück innerhalb der letzten 10 Jahre mindestens 5 Jahre als Hauptwohnsitz genutzt.
+3. Herstellerbefreiung: Selbst hergestellte Gebäude (nicht Anschaffung) können steuerfrei veräußert werden, wenn das Gebäude nie zur Erzielung von Einkünften genutzt wurde.
