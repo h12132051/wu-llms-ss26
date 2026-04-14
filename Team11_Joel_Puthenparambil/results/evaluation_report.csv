@@ -1,0 +1,4 @@
+model,BERTScore_Precision,BERTScore_Recall,BERTScore_F1
+Model 1 (Mistral-7B inference),0.8372,0.8544,0.8454
+Model 2 (TinyLlama fine-tuned),0.8306,0.8193,0.8246
+Model 3 (RAG + Gemini),0.8515,0.8688,0.8597
