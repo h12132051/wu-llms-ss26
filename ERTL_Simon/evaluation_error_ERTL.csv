@@ -1,0 +1,16 @@
+model,error_category,count
+Model 1 - Inference,Overly verbose answer,553
+Model 1 - Inference,No common mistakes found,87
+Model 1 - Inference,Low semantic overlap,2
+Model 1 - Inference,Missing answer,2
+Model 1 - Inference,Prompt leakage / malformed output,1
+Model 2 - Fine-tuning,Overly generic uncertainty,238
+Model 2 - Fine-tuning,No common mistakes found,203
+Model 2 - Fine-tuning,Overly verbose answer,146
+Model 2 - Fine-tuning,Low semantic overlap,56
+Model 2 - Fine-tuning,Missing answer,2
+Model 3 - RAG (fine-tuned),Overly generic uncertainty,219
+Model 3 - RAG (fine-tuned),No common mistakes found,206
+Model 3 - RAG (fine-tuned),Overly verbose answer,143
+Model 3 - RAG (fine-tuned),Low semantic overlap,75
+Model 3 - RAG (fine-tuned),Missing answer,2
