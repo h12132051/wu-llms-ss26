@@ -1,0 +1,4 @@
+﻿model,n_examples,Precision,Recall,F1
+Model 1 Inference,643,0.63810325,0.67946047,0.6573703
+Model 3 RAG,643,0.64749366,0.6589634,0.6524946
+Model 2 Fine-Tune,643,0.6178318,0.66186064,0.63852453
