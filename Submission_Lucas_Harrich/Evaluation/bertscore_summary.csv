@@ -1,0 +1,5 @@
+model,prediction_file,rows_scored,gold_rows,bertscore_f1
+qwen_14b,qwen_14b_test.csv,641,643,0.7078
+qwen_1_5b_finetuned,finetune_qwen_1_5b.csv,641,643,0.6857
+qwen_1_5b_base,inference_qwen_1_5b.csv,641,643,0.6845
+qwen_1_5b_rag,RAG_qwen_1_5b.csv,641,643,0.6784
