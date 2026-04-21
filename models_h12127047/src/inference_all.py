@@ -1,109 +1,101 @@
-# --- 1. Installation ---
-!pip install transformers datasets accelerate pandas scikit-learn -U
-
-import pandas as pd
 import torch
-import os
-from torch.utils.data import Dataset
-from sklearn.model_selection import train_test_split
-from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments
+import pandas as pd
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
-# --- 2. Pfade definieren ---
-input_model_path = "./my_legal_model"  # Dein Start-Modell
-ft_file = "fine_tuning.csv"            # Deine neuen Trainingsdaten
-output_path = "./legal_model_final"    # Hier landet das verbesserte Modell
+# 1. SETUP
+ft_model_path = "./fine_tuned_legal" # Dein trainiertes Modell
+base_model_name = "dbmdz/german-gpt2" # Das ursprüngliche Basis-Modell
+test_data_url = "https://raw.githubusercontent.com/svakulenk0/wu-llms-ss26/main/dataset_clean.csv"
+knowledge_path = "training_data.csv"
 
-# --- 3. Daten laden ---
-try:
-    # Robustes Laden der CSV
-    df = pd.read_csv(ft_file, sep=None, engine='python', on_bad_lines='skip')
-    df.columns = [c.strip() for c in df.columns]
-    
-    # Sicherstellen, dass die Spalte 'train' existiert
-    if 'train' not in df.columns:
-        potential = [c for c in df.columns if 'train' in c.lower()]
-        target = potential[0] if potential else df.columns[1]
-        df = df.rename(columns={target: 'train'})
-    
-    df = df.dropna(subset=['train'])
-    train_df, val_df = train_test_split(df, test_size=0.1, random_state=42)
-    print(f"✅ Daten bereit: {len(train_df)} Training-Zeilen.")
-except Exception as e:
-    print(f"❌ Fehler beim Laden der CSV: {e}")
-    raise e
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# --- 4. Dataset Klasse ---
-class LegalDataset(Dataset):
-    def __init__(self, dataframe, tokenizer, max_length=512):
-        self.data = dataframe
-        self.tokenizer = tokenizer
-        self.max_length = max_length
-
-    def __len__(self):
-        return len(self.data)
-
-    def __getitem__(self, idx):
-        row = self.data.iloc[idx]
-        question = str(row.get('Full Reference', 'Steuerrechtliche Frage'))
-        answer = str(row['train'])
-        
-        # Format: Frage -> Antwort
-        full_text = f"Frage: {question}\nAntwort: {answer}{self.tokenizer.eos_token}"
-        
-        enc = self.tokenizer(full_text, truncation=True, max_length=self.max_length, padding="max_length")
-        labels = list(enc["input_ids"])
-        
-        # Maskierung des Prompts für den Loss
-        prompt_text = f"Frage: {question}\nAntwort: "
-        prompt_len = len(self.tokenizer.encode(prompt_text, add_special_tokens=False))
-        
-        for i in range(len(labels)):
-            if i < prompt_len or enc["input_ids"][i] == self.tokenizer.pad_token_id:
-                labels[i] = -100
-                
-        return {
-            "input_ids": torch.tensor(enc["input_ids"], dtype=torch.long),
-            "attention_mask": torch.tensor(enc["attention_mask"], dtype=torch.long),
-            "labels": torch.tensor(labels, dtype=torch.long),
-        }
-
-# --- 5. Modell & Tokenizer laden (aus my_legal_model) ---
-print(f"Lade existierendes Modell von {input_model_path}...")
-tokenizer = AutoTokenizer.from_pretrained(input_model_path)
-# Falls kein Pad-Token gesetzt ist (wichtig bei GPT-Modellen)
+# --- TOKENIZER LADEN ---
+tokenizer = AutoTokenizer.from_pretrained(base_model_name)
 if tokenizer.pad_token is None:
     tokenizer.pad_token = tokenizer.eos_token
 
-model = AutoModelForCausalLM.from_pretrained(input_model_path).to("cuda")
-model.resize_token_embeddings(len(tokenizer))
+# --- MODELLE LADEN ---
+print("Lade Basis-Modell...")
+model_base = AutoModelForCausalLM.from_pretrained(base_model_name).to(device)
 
-# --- 6. Training Konfiguration ---
-training_args = TrainingArguments(
-    output_dir="./checkpoints",
-    num_train_epochs=5,            # Da das Modell schon Vorwissen hat, reichen oft 5 Epochen
-    learning_rate=2e-5,            # Etwas niedrigere LR für Fine-Tuning eines bestehenden Modells
-    per_device_train_batch_size=4,
-    gradient_accumulation_steps=4,
-    weight_decay=0.01,
-    logging_steps=10,
-    eval_strategy="no",
-    save_total_limit=1,
-    fp16=True,                     
-    report_to="none"
-)
+print("Lade Fine-Tuned Modell...")
+model_ft = AutoModelForCausalLM.from_pretrained(ft_model_path)
+model_ft.resize_token_embeddings(len(tokenizer)) # Fix für Padding-Tokens
+model_ft.to(device)
 
-# --- 7. Trainer Start ---
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=LegalDataset(train_df, tokenizer),
-)
+model_base.eval()
+model_ft.eval()
 
-print("🚀 Starte Fine-Tuning auf Basis von 'my_legal_model'...")
-trainer.train()
+# Daten laden
+df_test = pd.read_csv(test_data_url)
+df_knowledge = pd.read_csv(knowledge_path, sep=';').dropna(subset=['train'])
 
-# --- 8. Speichern ---
-model.save_pretrained(output_path)
-tokenizer.save_pretrained(output_path)
+# 2. RAG LOGIK
+def get_context(question):
+    question_lower = str(question).lower()
+    for _, row in df_knowledge.iterrows():
+        ref = str(row['Full Reference']).lower()
+        if ref in question_lower or any(word in question_lower for word in ref.split() if len(word) > 3):
+            return str(row['train'])[:700]
+    return ""
 
-print(f"✅ Abgeschlossen! Dein verbessertes Modell liegt in: {output_path}")
+# 3. GENERIERUNG (mit Token-Anpassung)
+def generate_answer(model, question, mode="ft"):
+    # Unterschiedliche Max-Tokens wie von dir angemerkt
+    tokens_to_generate = 200 if mode == "inference_only" else 100
+    
+    if mode == "rag":
+        context = get_context(question)
+        prompt = f"Hintergrund: {context}\nFrage: {question}\nAntwort:"
+    else:
+        prompt = f"Frage: {question}\nAntwort:"
+
+    inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024).to(device)
+    
+    with torch.no_grad():
+        outputs = model.generate(
+            **inputs, 
+            max_new_tokens=tokens_to_generate, 
+            temperature=0.2, 
+            do_sample=True,
+            repetition_penalty=1.2,
+            pad_token_id=tokenizer.pad_token_id,
+            eos_token_id=tokenizer.eos_token_id
+        )
+    
+    full_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return full_text.split("Antwort:")[-1].strip() if "Antwort:" in full_text else full_text.strip()
+
+# 4. LOOP (Alle 3 Varianten)
+results_inf = []
+results_ft = []
+results_rag = []
+
+print(f"Starte Generierung für {len(df_test)} Fragen...")
+
+for idx, row in df_test.iterrows():
+    q_id = row['id']
+    q_text = row['question']
+    
+    # 1. Base Model Only (Inference Only) - Mehr Tokens!
+    ans_inf = generate_answer(model_base, q_text, mode="inference_only")
+    results_inf.append({"id": q_id, "model_answer": ans_inf})
+    
+    # 2. Fine-Tune Only
+    ans_ft = generate_answer(model_ft, q_text, mode="ft")
+    results_ft.append({"id": q_id, "answer": ans_ft})
+    
+    # 3. RAG (Fine-Tune + Kontext)
+    ans_rag = generate_answer(model_ft, q_text, mode="rag")
+    results_rag.append({"id": q_id, "answer": ans_rag})
+    
+    if idx % 50 == 0:
+        print(f"Fortschritt: {idx}/{len(df_test)}")
+
+# 5. EXPORT
+pd.DataFrame(results_inf).to_csv("inference_only.csv", index=False)
+pd.DataFrame(results_ft).to_csv("submission_fine_tuned.csv", index=False)
+pd.DataFrame(results_rag).to_csv("submission_rag.csv", index=False)
+
+print("✅ Alle drei Dateien (Inference Only, FT, RAG) wurden erstellt.")
