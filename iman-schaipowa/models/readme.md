@@ -1,5 +1,5 @@
 ### Overview
-Three LLM-based approaches to answering 643 Austrian tax law questions in German, covering EStG, KStG, and UStG etc.
+Three LLM-based approaches to answering 643 Austrian tax law questions in German, covering EStG, KStG, UStG, BAO etc.
 
 ### Models
 * Task 1: API Inference, GPT-4o-mini, Local, OpenAI API Key
